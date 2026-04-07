@@ -2,6 +2,8 @@
 
 **Interactive hazard map for Indonesia** — visualise earthquakes, volcanoes, landslides, hotspots, and radiation facilities on a single real-time map.
 
+> This repository is provided for learning and research purposes. All data included in this project is obtained from public data sources and public endpoints.
+
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 ![Peta Bencana Mandala — main view](public/screen/main.png)
@@ -77,6 +79,8 @@ All map tiles are served by Carto's free tier. Data files are served from `publi
 ---
 
 ## Data Sources
+
+All bundled datasets in `public/data/` are sourced from publicly available data providers listed below.
 
 | Layer                                       | Provider       | Notes                                                            |
 | ------------------------------------------- | -------------- | ---------------------------------------------------------------- |
