@@ -1,4 +1,4 @@
-# Peta Bencana Mandala
+# Peta Bencana | by Mandala Teknologi
 
 **Interactive hazard map for Indonesia** — visualise earthquakes, volcanoes, landslides, hotspots, and radiation facilities on a single real-time map.
 
