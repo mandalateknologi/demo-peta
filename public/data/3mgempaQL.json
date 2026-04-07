@@ -1,0 +1,5509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.669807", "6.436601", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "179.273132",
+        "place": "Mindanao, Philippines",
+        "mag": "4.527049",
+        "time": "2026-04-07 07:51:56.849465",
+        "id": "bmg2026gtzw",
+        "fase": "37"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.263245", "1.266373", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "53.257351",
+        "place": "Northern Molucca Sea",
+        "mag": "4.903637",
+        "time": "2026-04-07 03:43:11.045938",
+        "id": "bmg2026gtrr",
+        "fase": "158"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["153.409729", "-4.687608", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "223.749603",
+        "place": "New Ireland Region, Papua New Guinea",
+        "mag": "4.805223",
+        "time": "2026-04-06 08:28:01.313409",
+        "id": "bmg2026gsfo",
+        "fase": "42"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.124954", "10.991423", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "54.562965",
+        "place": "Leyte, Philippines",
+        "mag": "5.464825",
+        "time": "2026-04-06 07:22:48.227589",
+        "id": "bmg2026gsdk",
+        "fase": "146"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.287544", "1.480430", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "37.993298",
+        "place": "Northern Molucca Sea",
+        "mag": "4.592354",
+        "time": "2026-04-06 05:32:15.215676",
+        "id": "bmg2026grzt",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["131.457291", "-6.664557", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "77.963493",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "4.721741",
+        "time": "2026-04-05 23:27:40.72787",
+        "id": "bmg2026grns",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.740433", "0.044909", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.623994",
+        "time": "2026-04-05 11:09:12.305086",
+        "id": "bmg2026gqpj",
+        "fase": "66"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.627312", "1.421150", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.660721",
+        "time": "2026-04-04 20:16:23.880207",
+        "id": "bmg2026gplx",
+        "fase": "70"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.586296", "1.483543", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.616358",
+        "time": "2026-04-04 18:59:14.890052",
+        "id": "bmg2026gpjj",
+        "fase": "36"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["153.620758", "-4.682034", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "121.628349",
+        "place": "New Ireland Region, Papua New Guinea",
+        "mag": "5.365816",
+        "time": "2026-04-04 16:23:09.333651",
+        "id": "bmg2026gpef",
+        "fase": "112"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["99.936745", "-2.142146", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "53.511166",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "5.388819",
+        "time": "2026-04-04 11:21:12.42027",
+        "id": "bmg2026goug",
+        "fase": "249"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["147.436295", "-6.937636", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "82.221954",
+        "place": "Papua New Guinea Region",
+        "mag": "4.943860",
+        "time": "2026-04-04 10:48:43.816568",
+        "id": "bmg2026gote",
+        "fase": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.313324", "4.891140", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "95.621956",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "5.914152",
+        "time": "2026-04-04 10:34:31.686697",
+        "id": "bmg2026goss",
+        "fase": "262"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.988220", "-6.835284", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "313.213531",
+        "place": "Banda Sea",
+        "mag": "4.566614",
+        "time": "2026-04-04 07:16:57.431211",
+        "id": "bmg2026gomf",
+        "fase": "14"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.180557", "1.127233", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.835090",
+        "time": "2026-04-04 02:53:11.632787",
+        "id": "bmg2026godm",
+        "fase": "73"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.207031", "1.201789", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "33.315903",
+        "place": "Northern Molucca Sea",
+        "mag": "5.712131",
+        "time": "2026-04-04 01:35:02.144786",
+        "id": "bmg2026goax",
+        "fase": "175"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["97.779846", "0.253797", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "27.077551",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "4.641208",
+        "time": "2026-04-04 01:14:33.774786",
+        "id": "bmg2026goag",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.371712", "1.450674", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "22.973591",
+        "place": "Northern Molucca Sea",
+        "mag": "4.577386",
+        "time": "2026-04-03 22:49:47.37013",
+        "id": "bmg2026gnvm",
+        "fase": "51"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.368668", "1.557177", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.287167",
+        "time": "2026-04-03 21:19:04.708362",
+        "id": "bmg2026gnsm",
+        "fase": "99"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["97.824890", "3.477512", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "4.610676",
+        "time": "2026-04-03 16:26:18.371462",
+        "id": "bmg2026gniu",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.426765", "1.486913", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "21.977934",
+        "place": "Northern Molucca Sea",
+        "mag": "5.250982",
+        "time": "2026-04-03 10:59:08.552617",
+        "id": "bmg2026gmya",
+        "fase": "98"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.320518", "1.481685", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "27.241207",
+        "place": "Northern Molucca Sea",
+        "mag": "4.868733",
+        "time": "2026-04-03 09:24:07.918661",
+        "id": "bmg2026gmux",
+        "fase": "38"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.261749", "1.529620", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "45.823917",
+        "place": "Northern Molucca Sea",
+        "mag": "5.042807",
+        "time": "2026-04-03 04:42:06.638504",
+        "id": "bmg2026gmlp",
+        "fase": "278"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.454811", "1.030318", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.444461",
+        "time": "2026-04-03 03:37:16.028354",
+        "id": "bmg2026gmjl",
+        "fase": "198"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.491943", "1.202282", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.517572",
+        "time": "2026-04-03 02:28:41.342223",
+        "id": "bmg2026gmhe",
+        "fase": "65"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.218750", "1.863894", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.667689",
+        "time": "2026-04-03 02:05:46.743356",
+        "id": "bmg2026gmgl",
+        "fase": "54"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.495300", "1.071481", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.495001",
+        "place": "Northern Molucca Sea",
+        "mag": "4.539280",
+        "time": "2026-04-03 01:51:54.820251",
+        "id": "bmg2026gmfz",
+        "fase": "32"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.491913", "1.089233", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "41.677410",
+        "place": "Northern Molucca Sea",
+        "mag": "5.163346",
+        "time": "2026-04-03 01:44:15.866022",
+        "id": "bmg2026gmfs",
+        "fase": "218"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.633072", "1.414688", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "12.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.396299",
+        "time": "2026-04-03 00:32:56.153796",
+        "id": "bmg2026gmdj",
+        "fase": "212"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.616013", "1.337950", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "12.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.637457",
+        "time": "2026-04-03 00:22:19.421208",
+        "id": "bmg2026gmda",
+        "fase": "150"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.337669", "1.293103", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.572326",
+        "time": "2026-04-02 19:31:35.044739",
+        "id": "bmg2026gltl",
+        "fase": "52"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.292587", "1.237749", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.527857",
+        "place": "Northern Molucca Sea",
+        "mag": "4.864955",
+        "time": "2026-04-02 19:08:02.258385",
+        "id": "bmg2026glsq",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.320221", "1.302327", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "24.011501",
+        "place": "Northern Molucca Sea",
+        "mag": "4.940234",
+        "time": "2026-04-02 18:46:11.19795",
+        "id": "bmg2026glry",
+        "fase": "32"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.246399", "1.285406", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "21.338404",
+        "place": "Northern Molucca Sea",
+        "mag": "5.117043",
+        "time": "2026-04-02 16:10:28.873858",
+        "id": "bmg2026glmu",
+        "fase": "140"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["134.883423", "-3.616699", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "West Papua Region, Indonesia",
+        "mag": "5.238860",
+        "time": "2026-04-02 15:36:35.456973",
+        "id": "bmg2026gllr",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.567596", "1.382043", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.435344",
+        "place": "Northern Molucca Sea",
+        "mag": "4.874812",
+        "time": "2026-04-02 15:34:24.690012",
+        "id": "bmg2026gllp",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.619362", "1.422893", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.661860",
+        "time": "2026-04-02 14:34:58.547216",
+        "id": "bmg2026gljq",
+        "fase": "221"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.611130", "1.466788", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.795750",
+        "time": "2026-04-02 14:13:48.822626",
+        "id": "bmg2026gliy",
+        "fase": "258"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.623550", "1.482450", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.515554",
+        "time": "2026-04-02 14:06:07.493289",
+        "id": "bmg2026glir",
+        "fase": "20"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.578827", "1.410057", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.590193",
+        "time": "2026-04-02 12:33:13.668264",
+        "id": "bmg2026glfq",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.408279", "1.526113", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.077635",
+        "time": "2026-04-02 11:35:33.989257",
+        "id": "bmg2026glds",
+        "fase": "108"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.387367", "1.451968", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.106346",
+        "place": "Northern Molucca Sea",
+        "mag": "4.716442",
+        "time": "2026-04-02 10:21:28.897812",
+        "id": "bmg2026glbh",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.376396", "1.520680", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.636557",
+        "time": "2026-04-02 10:10:21.327271",
+        "id": "bmg2026glax",
+        "fase": "72"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.661980", "1.385513", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.527917",
+        "time": "2026-04-02 09:05:52.909434",
+        "id": "bmg2026gkyu",
+        "fase": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.644333", "1.418813", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.583466",
+        "time": "2026-04-02 09:02:21.249948",
+        "id": "bmg2026gkyr",
+        "fase": "44"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.642670", "1.376656", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.885254",
+        "time": "2026-04-02 08:52:05.126051",
+        "id": "bmg2026gkyi",
+        "fase": "143"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.336784", "1.254520", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.431717",
+        "place": "Northern Molucca Sea",
+        "mag": "4.934810",
+        "time": "2026-04-02 08:38:58.578071",
+        "id": "bmg2026gkxx",
+        "fase": "96"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.268509", "1.276219", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "33.432693",
+        "place": "Northern Molucca Sea",
+        "mag": "4.784849",
+        "time": "2026-04-02 07:15:58.534569",
+        "id": "bmg2026gkve",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.588516", "1.384783", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.144661",
+        "place": "Northern Molucca Sea",
+        "mag": "5.381701",
+        "time": "2026-04-02 07:04:12.921988",
+        "id": "bmg2026gkuu",
+        "fase": "170"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.551849", "1.237860", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.939288",
+        "time": "2026-04-02 05:41:40.397332",
+        "id": "bmg2026gksb",
+        "fase": "50"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.557396", "1.250268", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.926204",
+        "time": "2026-04-02 05:37:22.753229",
+        "id": "bmg2026gkrx",
+        "fase": "56"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.409515", "1.267407", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.532438",
+        "time": "2026-04-02 04:42:06.571695",
+        "id": "bmg2026gkqc",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.602287", "1.289581", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "6.202857",
+        "time": "2026-04-02 03:23:53.535368",
+        "id": "bmg2026gknn",
+        "fase": "113"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.531158", "1.423312", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "5.869884",
+        "time": "2026-04-02 03:17:51.051189",
+        "id": "bmg2026gknh",
+        "fase": "143"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.556564", "1.305086", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "11.095615",
+        "place": "Northern Molucca Sea",
+        "mag": "4.525750",
+        "time": "2026-04-02 03:14:34.485495",
+        "id": "bmg2026gknf",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.244720", "1.192276", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "19.820240",
+        "place": "Northern Molucca Sea",
+        "mag": "4.512394",
+        "time": "2026-04-02 02:23:40.799476",
+        "id": "bmg2026gkln",
+        "fase": "13"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.339569", "1.294959", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.854391",
+        "time": "2026-04-02 02:22:08.540229",
+        "id": "bmg2026gklm",
+        "fase": "51"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.335358", "1.401357", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "54.775417",
+        "place": "Northern Molucca Sea",
+        "mag": "5.290650",
+        "time": "2026-04-02 02:11:00.492954",
+        "id": "bmg2026gklc",
+        "fase": "152"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.327438", "1.317926", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.863520",
+        "time": "2026-04-02 02:09:32.769273",
+        "id": "bmg2026gklb",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.295158", "1.228709", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.078876",
+        "place": "Northern Molucca Sea",
+        "mag": "4.620238",
+        "time": "2026-04-02 01:57:17.614348",
+        "id": "bmg2026gkkq",
+        "fase": "69"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.520035", "1.482403", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.618658",
+        "time": "2026-04-02 01:29:17.042506",
+        "id": "bmg2026gkjs",
+        "fase": "23"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.493675", "1.352282", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.614962",
+        "time": "2026-04-02 00:36:03.01054",
+        "id": "bmg2026gkhz",
+        "fase": "32"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.332199", "1.282822", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.947903",
+        "time": "2026-04-02 00:15:20.012392",
+        "id": "bmg2026gkhh",
+        "fase": "69"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.288239", "1.214841", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "16.456930",
+        "place": "Northern Molucca Sea",
+        "mag": "4.546386",
+        "time": "2026-04-02 00:10:20.016996",
+        "id": "bmg2026gkhd",
+        "fase": "10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.394882", "1.089772", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.678615",
+        "time": "2026-04-02 00:08:24.072899",
+        "id": "bmg2026gkhb",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.489372", "1.290037", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.882425",
+        "time": "2026-04-01 23:54:57.675705",
+        "id": "bmg2026gkgp",
+        "fase": "79"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.361427", "1.419897", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.834602",
+        "time": "2026-04-01 23:53:08.174661",
+        "id": "bmg2026gkgo",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.625618", "1.296166", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.798511",
+        "time": "2026-04-01 23:46:25.133184",
+        "id": "bmg2026gkgi",
+        "fase": "43"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.424591", "1.378119", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "15.175415",
+        "place": "Northern Molucca Sea",
+        "mag": "4.649942",
+        "time": "2026-04-01 23:43:18.791852",
+        "id": "bmg2026gkgf",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.503563", "1.310768", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.660567",
+        "time": "2026-04-01 23:40:24.095687",
+        "id": "bmg2026gkgd",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.188614", "1.225233", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "34.898399",
+        "place": "Northern Molucca Sea",
+        "mag": "4.861586",
+        "time": "2026-04-01 23:13:30.619044",
+        "id": "bmg2026gkff",
+        "fase": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.251709", "1.230507", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "33.045883",
+        "place": "Northern Molucca Sea",
+        "mag": "4.828270",
+        "time": "2026-04-01 23:12:32.327361",
+        "id": "bmg2026gkfg",
+        "fase": "16"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.518356", "1.203011", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "57.291836",
+        "place": "Northern Molucca Sea",
+        "mag": "5.501286",
+        "time": "2026-04-01 23:07:26.353448",
+        "id": "bmg2026gkfb",
+        "fase": "167"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.262527", "1.288265", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "13.830791",
+        "place": "Northern Molucca Sea",
+        "mag": "4.758707",
+        "time": "2026-04-01 23:02:55.178895",
+        "id": "bmg2026gkex",
+        "fase": "20"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.231415", "1.254508", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.921297",
+        "time": "2026-04-01 23:00:21.783472",
+        "id": "bmg2026gkev",
+        "fase": "9"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.254303", "1.209785", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.083485",
+        "place": "Northern Molucca Sea",
+        "mag": "7.337961",
+        "time": "2026-04-01 22:48:14.268532",
+        "id": "bmg2026gkek",
+        "fase": "32"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.830093", "-0.300535", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "13.824112",
+        "place": "Halmahera, Indonesia",
+        "mag": "5.319991",
+        "time": "2026-04-01 12:14:01.787302",
+        "id": "bmg2026gjjm",
+        "fase": "217"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.156372", "3.830354", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "59.539829",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.512441",
+        "time": "2026-04-01 09:44:12.559448",
+        "id": "bmg2026gjeo",
+        "fase": "52"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["121.928467", "1.967306", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "523.737976",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.686958",
+        "time": "2026-03-31 11:14:24.230689",
+        "id": "bmg2026ghma",
+        "fase": "79"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["142.545242", "-5.452887", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.649164",
+        "place": "New Guinea, Papua New Guinea",
+        "mag": "4.658414",
+        "time": "2026-03-31 07:25:20.21287",
+        "id": "bmg2026ghem",
+        "fase": "13"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.731827", "-7.686245", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "172.179993",
+        "place": "Banda Sea",
+        "mag": "4.872693",
+        "time": "2026-03-30 04:00:22.807202",
+        "id": "bmg2026gfcf",
+        "fase": "102"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.449524", "-7.598865", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "133.545776",
+        "place": "Banda Sea",
+        "mag": "4.593939",
+        "time": "2026-03-30 02:36:14.707558",
+        "id": "bmg2026gezl",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["153.565125", "-5.521160", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "46.775211",
+        "place": "New Ireland Region, Papua New Guinea",
+        "mag": "5.373648",
+        "time": "2026-03-29 18:10:00.026553",
+        "id": "bmg2026geis",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.927994", "-7.751169", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "156.803177",
+        "place": "Banda Sea",
+        "mag": "6.223067",
+        "time": "2026-03-28 18:38:30.881243",
+        "id": "bmg2026gcoe",
+        "fase": "135"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["94.294968", "10.286815", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Andaman Islands, India Region",
+        "mag": "4.712942",
+        "time": "2026-03-28 11:52:33.744035",
+        "id": "bmg2026gcau",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["140.442337", "-3.501751", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "66.023758",
+        "place": "West Papua, Indonesia",
+        "mag": "5.291764",
+        "time": "2026-03-28 07:35:47.375406",
+        "id": "bmg2026gbsh",
+        "fase": "42"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.694908", "5.555120", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "189.924164",
+        "place": "Mindanao, Philippines",
+        "mag": "4.970789",
+        "time": "2026-03-28 03:33:58.351753",
+        "id": "bmg2026gbki",
+        "fase": "64"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.437988", "-3.105388", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "73.252960",
+        "place": "West Papua, Indonesia",
+        "mag": "6.003528",
+        "time": "2026-03-26 22:51:02.61335",
+        "id": "bmg2026fzfm",
+        "fase": "55"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.438423", "-3.721150", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Sulawesi, Indonesia",
+        "mag": "4.912629",
+        "time": "2026-03-26 04:39:49.826761",
+        "id": "bmg2026fxvm",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["155.889160", "-7.937607", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "94.702171",
+        "place": "Solomon Islands",
+        "mag": "4.917703",
+        "time": "2026-03-25 21:25:23.380865",
+        "id": "bmg2026fxhe",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.901192", "2.278927", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "63.597183",
+        "place": "Northern Molucca Sea",
+        "mag": "4.520239",
+        "time": "2026-03-23 11:25:02.324093",
+        "id": "bmg2026fswi",
+        "fase": "31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["121.017509", "14.161680", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "127.529076",
+        "place": "Luzon, Philippines",
+        "mag": "4.747353",
+        "time": "2026-03-22 05:30:05.109243",
+        "id": "bmg2026fqpd",
+        "fase": "97"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["103.775841", "-6.321626", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "20.522612",
+        "place": "Southwest of Sumatra, Indonesia",
+        "mag": "4.640001",
+        "time": "2026-03-22 03:51:50.043027",
+        "id": "bmg2026fqlx",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.469528", "-2.007456", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Sulawesi, Indonesia",
+        "mag": "4.505259",
+        "time": "2026-03-21 19:53:58.747119",
+        "id": "bmg2026fpwd",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["104.867081", "-7.558024", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "40.396870",
+        "place": "Southwest of Sumatra, Indonesia",
+        "mag": "5.177125",
+        "time": "2026-03-21 18:08:56.644572",
+        "id": "bmg2026fpsr",
+        "fase": "255"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.243332", "-4.975056", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "106.934906",
+        "place": "Near North Coast of Papua New Guinea",
+        "mag": "4.998467",
+        "time": "2026-03-20 18:32:09.575619",
+        "id": "bmg2026fnxy",
+        "fase": "53"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["96.030434", "2.232413", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "4.844481",
+        "time": "2026-03-20 12:28:09.287884",
+        "id": "bmg2026fnlx",
+        "fase": "63"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["149.890198", "-7.150293", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "92.659454",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "4.806763",
+        "time": "2026-03-19 20:58:33.14997",
+        "id": "bmg2026fmhg",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.276657", "-7.703814", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "154.957428",
+        "place": "Banda Sea",
+        "mag": "4.726081",
+        "time": "2026-03-17 23:15:59.0491",
+        "id": "bmg2026fiuu",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.690498", "5.441385", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "52.005573",
+        "place": "Mindanao, Philippines",
+        "mag": "4.615702",
+        "time": "2026-03-17 08:40:44.192927",
+        "id": "bmg2026fhrx",
+        "fase": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["150.615814", "-4.191649", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "517.475647",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "4.903549",
+        "time": "2026-03-17 04:39:04.134512",
+        "id": "bmg2026fhjy",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.271667", "-7.953634", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "133.224640",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "4.591988",
+        "time": "2026-03-17 04:26:23.335963",
+        "id": "bmg2026fhjn",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.643860", "-7.247602", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "153.880463",
+        "place": "Banda Sea",
+        "mag": "4.765228",
+        "time": "2026-03-16 23:06:42.068897",
+        "id": "bmg2026fgyz",
+        "fase": "75"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.961067", "-9.125756", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "80.855217",
+        "place": "Timor Region",
+        "mag": "4.630795",
+        "time": "2026-03-16 16:01:15.557788",
+        "id": "bmg2026fgky",
+        "fase": "73"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.084747", "-2.132824", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.653299",
+        "place": "Near North Coast of West Papua",
+        "mag": "5.114354",
+        "time": "2026-03-16 11:53:27.171917",
+        "id": "bmg2026fgct",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["118.185394", "-9.360831", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "38.241886",
+        "place": "Sumbawa Region, Indonesia",
+        "mag": "5.347673",
+        "time": "2026-03-16 11:41:59.387623",
+        "id": "bmg2026fgcj",
+        "fase": "100"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.062943", "-2.103346", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "17.342199",
+        "place": "Near North Coast of West Papua",
+        "mag": "4.554555",
+        "time": "2026-03-16 11:33:01.269298",
+        "id": "bmg2026fgcc",
+        "fase": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.752060", "4.448993", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "22.727562",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.576683",
+        "time": "2026-03-14 06:50:47.802678",
+        "id": "bmg2026fcbu",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["149.772446", "-3.504939", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "55.485626",
+        "place": "Bismarck Sea",
+        "mag": "5.230805",
+        "time": "2026-03-12 21:58:52.543413",
+        "id": "bmg2026ezos",
+        "fase": "96"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["111.906631", "-0.016024", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.000000",
+        "place": "Borneo",
+        "mag": "4.875338",
+        "time": "2026-03-12 20:04:05.406788",
+        "id": "bmg2026ezky",
+        "fase": "87"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["106.882759", "-7.825202", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "101.042519",
+        "place": "Java, Indonesia",
+        "mag": "5.176245",
+        "time": "2026-03-12 19:18:19.354396",
+        "id": "bmg2026ezjl",
+        "fase": "303"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.796799", "8.879222", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "75.452644",
+        "place": "Mindanao, Philippines",
+        "mag": "4.894312",
+        "time": "2026-03-12 00:06:33.046604",
+        "id": "bmg2026exxl",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["121.894867", "-0.540229", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "6.677880",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.678054",
+        "time": "2026-03-11 02:12:13.701144",
+        "id": "bmg2026ewgb",
+        "fase": "71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["120.541542", "-9.607103", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "36.561703",
+        "place": "Sumba Region, Indonesia",
+        "mag": "4.719758",
+        "time": "2026-03-10 21:45:38.314702",
+        "id": "bmg2026evxh",
+        "fase": "71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["118.778702", "-10.082931", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Sumbawa, Indonesia",
+        "mag": "4.920643",
+        "time": "2026-03-10 10:47:12.379344",
+        "id": "bmg2026evbo",
+        "fase": "64"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["144.935898", "-4.635472", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "201.021072",
+        "place": "Near North Coast of Papua New Guinea",
+        "mag": "4.655093",
+        "time": "2026-03-09 15:35:16.623969",
+        "id": "bmg2026etpo",
+        "fase": "49"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.939575", "-5.727489", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "314.932434",
+        "place": "Banda Sea",
+        "mag": "4.568750",
+        "time": "2026-03-09 08:11:00.407542",
+        "id": "bmg2026etax",
+        "fase": "41"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["96.471497", "2.007581", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "20.463417",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "5.347361",
+        "time": "2026-03-08 06:05:08.207165",
+        "id": "bmg2026erbg",
+        "fase": "116"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["101.565903", "-3.034050", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "83.008972",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "5.173817",
+        "time": "2026-03-07 16:58:43.688996",
+        "id": "bmg2026eqbh",
+        "fase": "273"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["120.977158", "14.661171", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "131.096420",
+        "place": "Luzon, Philippines",
+        "mag": "5.097313",
+        "time": "2026-03-07 16:04:45.915922",
+        "id": "bmg2026epzn",
+        "fase": "123"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.125954", "12.997635", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Samar, Philippines",
+        "mag": "4.982537",
+        "time": "2026-03-07 15:53:42.073762",
+        "id": "bmg2026epze",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.136810", "1.310640", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "27.988024",
+        "place": "Northern Molucca Sea",
+        "mag": "4.541518",
+        "time": "2026-03-07 11:57:30.121251",
+        "id": "bmg2026eprj",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.942345", "7.693772", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "57.325634",
+        "place": "Mindanao, Philippines",
+        "mag": "4.845134",
+        "time": "2026-03-07 05:57:53.347459",
+        "id": "bmg2026epfn",
+        "fase": "17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.700836", "1.630820", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "42.692184",
+        "place": "Halmahera, Indonesia",
+        "mag": "5.112720",
+        "time": "2026-03-06 17:55:58.239979",
+        "id": "bmg2026eohr",
+        "fase": "249"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.169327", "-2.831406", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "16.401655",
+        "place": "Seram, Indonesia",
+        "mag": "4.851115",
+        "time": "2026-03-06 15:27:49.315288",
+        "id": "bmg2026eocu",
+        "fase": "36"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.177185", "-2.869396", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.776793",
+        "place": "Seram, Indonesia",
+        "mag": "4.673025",
+        "time": "2026-03-06 15:26:28.936949",
+        "id": "bmg2026eoct",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.940704", "-5.335325", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "196.525970",
+        "place": "Banda Sea",
+        "mag": "4.594250",
+        "time": "2026-03-06 10:03:12.491412",
+        "id": "bmg2026ensc",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.270630", "-6.914817", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "520.202332",
+        "place": "Banda Sea",
+        "mag": "4.663280",
+        "time": "2026-03-05 01:43:32.266088",
+        "id": "bmg2026elgc",
+        "fase": "38"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.971909", "-3.188071", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "13.709292",
+        "place": "Seram, Indonesia",
+        "mag": "4.632377",
+        "time": "2026-03-04 18:08:07.638885",
+        "id": "bmg2026ekrc",
+        "fase": "39"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.952148", "-3.169651", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Seram, Indonesia",
+        "mag": "4.524200",
+        "time": "2026-03-04 14:46:08.390011",
+        "id": "bmg2026ekkl",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.878036", "-7.542328", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "148.367279",
+        "place": "Banda Sea",
+        "mag": "4.918156",
+        "time": "2026-03-04 09:31:23.372715",
+        "id": "bmg2026ekab",
+        "fase": "30"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.961914", "-3.218393", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "32.607834",
+        "place": "Seram, Indonesia",
+        "mag": "4.923988",
+        "time": "2026-03-04 06:44:29.311705",
+        "id": "bmg2026ejun",
+        "fase": "84"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.529831", "-6.760441", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "183.097321",
+        "place": "Banda Sea",
+        "mag": "4.746200",
+        "time": "2026-03-04 04:19:53.342049",
+        "id": "bmg2026ejpt",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["120.873047", "-2.339456", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.000000",
+        "place": "Sulawesi, Indonesia",
+        "mag": "4.504201",
+        "time": "2026-03-03 19:10:29.820619",
+        "id": "bmg2026eixq",
+        "fase": "78"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["96.399963", "1.864871", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Off West Coast of Northern Sumatra",
+        "mag": "6.095552",
+        "time": "2026-03-03 04:56:43.418365",
+        "id": "bmg2026ehvm",
+        "fase": "237"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.759171", "-7.806624", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "97.587517",
+        "place": "Banda Sea",
+        "mag": "5.077852",
+        "time": "2026-03-02 17:40:14.099345",
+        "id": "bmg2026egze",
+        "fase": "47"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.306114", "9.612309", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "64.383316",
+        "place": "Negros, Philippines",
+        "mag": "4.800526",
+        "time": "2026-03-02 10:13:41.612878",
+        "id": "bmg2026egkl",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.041611", "2.757710", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "126.658211",
+        "place": "Halmahera, Indonesia",
+        "mag": "4.692091",
+        "time": "2026-03-01 18:33:26.196304",
+        "id": "bmg2026effk",
+        "fase": "140"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.303833", "-7.241238", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "161.055740",
+        "place": "Banda Sea",
+        "mag": "4.558247",
+        "time": "2026-03-01 08:58:56.370152",
+        "id": "bmg2026eeml",
+        "fase": "30"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["115.528389", "-9.253335", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "54.885593",
+        "place": "South of Bali, Indonesia",
+        "mag": "4.612368",
+        "time": "2026-03-01 03:52:51.41899",
+        "id": "bmg2026eecj",
+        "fase": "60"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["120.007545", "-9.902143", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "22.619806",
+        "place": "Sumba Region, Indonesia",
+        "mag": "4.609011",
+        "time": "2026-03-01 00:25:44.153665",
+        "id": "bmg2026edvn",
+        "fase": "70"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.175751", "4.956193", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "53.670723",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "5.712498",
+        "time": "2026-02-28 17:22:22.356637",
+        "id": "bmg2026edho",
+        "fase": "122"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["120.976410", "1.238595", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "4.000000",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "5.494533",
+        "time": "2026-02-28 06:52:08.073654",
+        "id": "bmg2026ecmu",
+        "fase": "170"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["151.979904", "-5.495105", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "56.875851",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "5.656630",
+        "time": "2026-02-28 06:23:27.719432",
+        "id": "bmg2026eclv",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.531731", "9.224348", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "52.628750",
+        "place": "Mindanao, Philippines",
+        "mag": "4.683266",
+        "time": "2026-02-27 16:23:48.571286",
+        "id": "bmg2026ebkd",
+        "fase": "40"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.441788", "8.547900", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "195.231323",
+        "place": "Mindanao, Philippines",
+        "mag": "4.510407",
+        "time": "2026-02-26 16:24:57.981618",
+        "id": "bmg2026dzor",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.724152", "-6.207299", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "310.384888",
+        "place": "Banda Sea",
+        "mag": "4.601189",
+        "time": "2026-02-26 03:34:21.940131",
+        "id": "bmg2026dypg",
+        "fase": "79"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.040382", "0.324811", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "140.712479",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.525338",
+        "time": "2026-02-25 18:11:58.03898",
+        "id": "bmg2026dxwr",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["98.975182", "-0.418567", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "25.755898",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.708715",
+        "time": "2026-02-25 17:49:29.270311",
+        "id": "bmg2026dxvy",
+        "fase": "92"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.324348", "-0.071631", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.664845",
+        "place": "Southern Molucca Sea",
+        "mag": "4.637482",
+        "time": "2026-02-25 13:19:43.160261",
+        "id": "bmg2026dxnb",
+        "fase": "62"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.823318", "-5.500284", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "90.510780",
+        "place": "Papua New Guinea Region",
+        "mag": "5.721393",
+        "time": "2026-02-25 11:14:05.309993",
+        "id": "bmg2026dxiy",
+        "fase": "74"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.563156", "5.669834", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "24.885183",
+        "place": "Mindanao, Philippines",
+        "mag": "4.669731",
+        "time": "2026-02-24 19:01:10.677341",
+        "id": "bmg2026dwcv",
+        "fase": "37"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["138.931519", "-2.113895", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "West Papua, Indonesia",
+        "mag": "5.362703",
+        "time": "2026-02-24 07:46:50.463311",
+        "id": "bmg2026dvgo",
+        "fase": "149"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["116.252762", "6.949380", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "627.536560",
+        "place": "Borneo",
+        "mag": "7.028540",
+        "time": "2026-02-22 16:57:45.918735",
+        "id": "bmg2026dsht",
+        "fase": "315"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["99.102318", "-0.782325", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "42.932331",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.846824",
+        "time": "2026-02-22 15:35:40.796145",
+        "id": "bmg2026dsfa",
+        "fase": "230"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["116.807327", "-11.296227", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Sumbawa, Indonesia",
+        "mag": "4.573927",
+        "time": "2026-02-22 14:19:00.688833",
+        "id": "bmg2026dscm",
+        "fase": "41"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.362061", "4.964120", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Celebes Sea",
+        "mag": "4.516496",
+        "time": "2026-02-22 10:50:44.919582",
+        "id": "bmg2026drvq",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["154.613922", "-7.154985", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "187.776443",
+        "place": "Solomon Islands",
+        "mag": "4.883804",
+        "time": "2026-02-22 09:29:46.849455",
+        "id": "bmg2026drsy",
+        "fase": "50"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.936172", "-5.324756", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "85.988922",
+        "place": "Papua New Guinea Region",
+        "mag": "5.688511",
+        "time": "2026-02-21 06:18:45.464948",
+        "id": "bmg2026dprd",
+        "fase": "229"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["138.533447", "-3.885384", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.968136",
+        "place": "West Papua, Indonesia",
+        "mag": "4.504782",
+        "time": "2026-02-21 02:24:16.749988",
+        "id": "bmg2026dpjk",
+        "fase": "10"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["132.051666", "-4.002099", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "62.846375",
+        "place": "West Papua Region, Indonesia",
+        "mag": "4.671805",
+        "time": "2026-02-20 13:36:45.000725",
+        "id": "bmg2026dokc",
+        "fase": "44"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.237396", "1.856312", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "74.468376",
+        "place": "Halmahera, Indonesia",
+        "mag": "4.669373",
+        "time": "2026-02-20 02:58:57.788883",
+        "id": "bmg2026dnpb",
+        "fase": "81"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.509117", "10.017659", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "55.919170",
+        "place": "Philippine Islands Region",
+        "mag": "4.995572",
+        "time": "2026-02-19 14:43:11.217431",
+        "id": "bmg2026dmqu",
+        "fase": "53"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.966446", "5.469514", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "85.845123",
+        "place": "Mindanao, Philippines",
+        "mag": "4.750189",
+        "time": "2026-02-19 13:44:16.726109",
+        "id": "bmg2026dmov",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.593658", "6.266448", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.528869",
+        "time": "2026-02-19 13:13:49.306035",
+        "id": "bmg2026dmnv",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.206352", "1.553574", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "5.568576",
+        "time": "2026-02-19 00:26:15.002627",
+        "id": "bmg2026dlon",
+        "fase": "357"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["131.369202", "-6.102758", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "70.965965",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "4.872880",
+        "time": "2026-02-18 02:15:28.784461",
+        "id": "bmg2026djwq",
+        "fase": "82"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.715569", "-0.217962", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Southern Molucca Sea",
+        "mag": "4.733077",
+        "time": "2026-02-17 19:24:20.249125",
+        "id": "bmg2026djjb",
+        "fase": "98"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["108.120239", "-8.437472", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "53.697704",
+        "place": "Java, Indonesia",
+        "mag": "4.919289",
+        "time": "2026-02-17 18:00:53.567921",
+        "id": "bmg2026djgh",
+        "fase": "116"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["121.629318", "0.520288", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "85.392967",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.554112",
+        "time": "2026-02-17 17:30:49.016079",
+        "id": "bmg2026djfi",
+        "fase": "65"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.304123", "4.496253", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.510099",
+        "time": "2026-02-17 14:20:31.936978",
+        "id": "bmg2026diza",
+        "fase": "23"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.257950", "-7.660161", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "150.172760",
+        "place": "Banda Sea",
+        "mag": "4.609168",
+        "time": "2026-02-17 10:57:16.183716",
+        "id": "bmg2026disi",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.877777", "-7.150210", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "197.392990",
+        "place": "Banda Sea",
+        "mag": "4.560746",
+        "time": "2026-02-17 02:31:08.718072",
+        "id": "bmg2026dibq",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["133.859482", "-5.626154", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.214554",
+        "place": "Aru Islands Region, Indonesia",
+        "mag": "4.780742",
+        "time": "2026-02-16 23:47:24.475899",
+        "id": "bmg2026dhwf",
+        "fase": "65"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["118.432465", "-8.782085", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "115.097145",
+        "place": "Sumbawa Region, Indonesia",
+        "mag": "4.527113",
+        "time": "2026-02-16 11:42:16.406119",
+        "id": "bmg2026dgyi",
+        "fase": "119"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["147.271500", "-6.129348", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "71.278793",
+        "place": "Papua New Guinea Region",
+        "mag": "5.007359",
+        "time": "2026-02-16 07:36:35.685847",
+        "id": "bmg2026dgqf",
+        "fase": "56"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["99.189293", "-0.499680", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "61.205208",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "5.160953",
+        "time": "2026-02-16 06:00:40.733597",
+        "id": "bmg2026dgnb",
+        "fase": "145"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.285309", "4.392949", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.628434",
+        "time": "2026-02-15 15:58:21.37077",
+        "id": "bmg2026dflg",
+        "fase": "30"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["117.983444", "-11.498368", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "37.068794",
+        "place": "South of Sumbawa, Indonesia",
+        "mag": "5.171033",
+        "time": "2026-02-15 13:44:09.819907",
+        "id": "bmg2026dfgv",
+        "fase": "224"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.245850", "4.197196", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.618391",
+        "time": "2026-02-15 07:21:09.612115",
+        "id": "bmg2026deue",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["102.351608", "-4.292359", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "26.350353",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.790541",
+        "time": "2026-02-15 06:14:43.767076",
+        "id": "bmg2026derz",
+        "fase": "89"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.441055", "4.472470", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.522049",
+        "time": "2026-02-15 01:46:34.640962",
+        "id": "bmg2026dejd",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.170181", "4.148359", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.509330",
+        "time": "2026-02-14 19:29:21.406066",
+        "id": "bmg2026ddws",
+        "fase": "77"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.153267", "5.550894", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "58.707443",
+        "place": "Philippine Islands Region",
+        "mag": "5.390225",
+        "time": "2026-02-14 17:23:02.844217",
+        "id": "bmg2026ddso",
+        "fase": "187"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.142914", "-2.746059", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "28.328373",
+        "place": "Ceram Sea",
+        "mag": "4.891343",
+        "time": "2026-02-14 14:21:53.171904",
+        "id": "bmg2026ddmo",
+        "fase": "170"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.943069", "-3.084485", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "41.417789",
+        "place": "West Papua, Indonesia",
+        "mag": "4.731182",
+        "time": "2026-02-14 12:23:11.807612",
+        "id": "bmg2026ddiq",
+        "fase": "66"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["134.217133", "-4.959859", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "57.360657",
+        "place": "West Papua Region, Indonesia",
+        "mag": "4.946498",
+        "time": "2026-02-14 09:48:20.33315",
+        "id": "bmg2026dddo",
+        "fase": "62"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.055664", "-2.777232", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.892479",
+        "place": "Ceram Sea",
+        "mag": "5.098072",
+        "time": "2026-02-14 03:09:46.846417",
+        "id": "bmg2026dcqk",
+        "fase": "172"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.754158", "4.390107", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "27.121477",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "5.175368",
+        "time": "2026-02-14 01:02:17.801286",
+        "id": "bmg2026dcme",
+        "fase": "87"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.631355", "3.933651", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "67.162033",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.504309",
+        "time": "2026-02-13 21:49:42.974499",
+        "id": "bmg2026dcfv",
+        "fase": "50"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.290527", "4.285979", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.594522",
+        "time": "2026-02-13 20:27:51.136058",
+        "id": "bmg2026dcdd",
+        "fase": "60"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["144.942093", "-4.597438", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "186.658554",
+        "place": "Near North Coast of Papua New Guinea",
+        "mag": "4.947503",
+        "time": "2026-02-13 19:08:16.634256",
+        "id": "bmg2026dcan",
+        "fase": "118"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.407791", "4.432062", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.842471",
+        "time": "2026-02-13 17:39:07.907012",
+        "id": "bmg2026dbxo",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.293457", "4.205688", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "33.174149",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.846722",
+        "time": "2026-02-13 15:55:14.857243",
+        "id": "bmg2026dbud",
+        "fase": "61"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.326324", "4.192399", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "47.148670",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.670069",
+        "time": "2026-02-13 15:23:26.12625",
+        "id": "bmg2026dbtc",
+        "fase": "55"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.355179", "4.268220", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "25.010750",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.863889",
+        "time": "2026-02-13 15:09:28.284529",
+        "id": "bmg2026dbsq",
+        "fase": "94"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.306747", "4.219638", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "5.633545",
+        "time": "2026-02-13 14:56:59.976781",
+        "id": "bmg2026dbsf",
+        "fase": "203"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.048065", "-8.264376", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.023614",
+        "place": "Timor Sea",
+        "mag": "4.516070",
+        "time": "2026-02-13 13:41:03.159539",
+        "id": "bmg2026dbps",
+        "fase": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.301407", "4.182289", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.558858",
+        "time": "2026-02-13 10:49:53.019842",
+        "id": "bmg2026dbkb",
+        "fase": "17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.295227", "4.129865", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "North of Halmahera, Indonesia",
+        "mag": "4.665662",
+        "time": "2026-02-13 10:26:23.185773",
+        "id": "bmg2026dbjh",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.726074", "-6.611225", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "177.831879",
+        "place": "Banda Sea",
+        "mag": "4.503949",
+        "time": "2026-02-13 02:02:19.916239",
+        "id": "bmg2026dasr",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["95.774574", "4.236780", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "17.225748",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "4.778580",
+        "time": "2026-02-12 13:14:14.282178",
+        "id": "bmg2026czti",
+        "fase": "53"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["144.725281", "14.099607", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "245.355896",
+        "place": "Mariana Islands",
+        "mag": "5.495128",
+        "time": "2026-02-12 10:30:23.775942",
+        "id": "bmg2026cznx",
+        "fase": "46"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["134.014481", "-4.776625", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "89.961624",
+        "place": "West Papua Region, Indonesia",
+        "mag": "4.669508",
+        "time": "2026-02-11 18:34:16.794524",
+        "id": "bmg2026cyij",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["152.848572", "-4.280921", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "42.128559",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "4.994174",
+        "time": "2026-02-11 17:43:46.212704",
+        "id": "bmg2026cygs",
+        "fase": "34"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.473907", "2.468499", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "206.268372",
+        "place": "Halmahera, Indonesia",
+        "mag": "4.531409",
+        "time": "2026-02-11 06:08:27.55467",
+        "id": "bmg2026cxju",
+        "fase": "16"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.720108", "2.316233", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "15.067986",
+        "place": "Northern Molucca Sea",
+        "mag": "4.645299",
+        "time": "2026-02-09 08:30:52.42921",
+        "id": "bmg2026ctxm",
+        "fase": "47"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.387833", "-7.114512", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "142.683685",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "4.657444",
+        "time": "2026-02-07 19:11:48.320376",
+        "id": "bmg2026crbp",
+        "fase": "43"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["140.303787", "-2.329284", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.000000",
+        "place": "Near North Coast of West Papua",
+        "mag": "4.638398",
+        "time": "2026-02-07 15:47:48.83501",
+        "id": "bmg2026cquw",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.232391", "-7.935277", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "49.634254",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "5.798130",
+        "time": "2026-02-06 21:20:17.033125",
+        "id": "bmg2026cpki",
+        "fase": "290"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.939949", "3.818249", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "131.725601",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.567059",
+        "time": "2026-02-06 12:48:00.252511",
+        "id": "bmg2026cotl",
+        "fase": "43"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.769348", "7.471709", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "561.392822",
+        "place": "Mindanao, Philippines",
+        "mag": "4.517599",
+        "time": "2026-02-05 18:36:42.354916",
+        "id": "bmg2026cnjm",
+        "fase": "17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.741272", "9.911182", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "136.961319",
+        "place": "Mindanao, Philippines",
+        "mag": "5.275819",
+        "time": "2026-02-05 18:15:51.324526",
+        "id": "bmg2026cniu",
+        "fase": "79"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["111.156570", "-8.969979", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "62.618397",
+        "place": "Java, Indonesia",
+        "mag": "5.849512",
+        "time": "2026-02-05 18:06:13.003964",
+        "id": "bmg2026cnil",
+        "fase": "468"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.547379", "-7.580994", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "168.150238",
+        "place": "Banda Sea",
+        "mag": "4.566896",
+        "time": "2026-02-05 15:08:36.92984",
+        "id": "bmg2026cncp",
+        "fase": "33"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.783096", "5.332360", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.630839",
+        "time": "2026-02-04 21:34:28.775342",
+        "id": "bmg2026cltv",
+        "fase": "26"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.635880", "9.816105", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "5.042688",
+        "time": "2026-02-04 07:11:24.427527",
+        "id": "bmg2026ckri",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["150.054611", "-5.568608", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "134.768021",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "4.697515",
+        "time": "2026-02-04 04:25:53.983455",
+        "id": "bmg2026cklw",
+        "fase": "20"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["132.143051", "-6.866557", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "101.189262",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "5.101837",
+        "time": "2026-02-04 00:36:33.625455",
+        "id": "bmg2026ckei",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["147.638153", "-6.200232", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "84.361160",
+        "place": "Papua New Guinea Region",
+        "mag": "5.221181",
+        "time": "2026-02-03 19:21:38.948566",
+        "id": "bmg2026cjtx",
+        "fase": "50"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.955612", "-6.704914", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "168.118729",
+        "place": "Banda Sea",
+        "mag": "5.373563",
+        "time": "2026-02-03 02:50:46.542825",
+        "id": "bmg2026cing",
+        "fase": "194"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.745438", "6.264888", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "16.403002",
+        "place": "Mindanao, Philippines",
+        "mag": "4.500860",
+        "time": "2026-02-01 06:55:21.221183",
+        "id": "bmg2026cfeh",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.755829", "-6.517653", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "89.897804",
+        "place": "Banda Sea",
+        "mag": "4.698014",
+        "time": "2026-01-31 21:21:51.155959",
+        "id": "bmg2026celj",
+        "fase": "121"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.619362", "6.660631", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "555.001587",
+        "place": "Mindanao, Philippines",
+        "mag": "4.546099",
+        "time": "2026-01-31 18:34:46.182915",
+        "id": "bmg2026cefw",
+        "fase": "81"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.741455", "-7.411965", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "160.875717",
+        "place": "Banda Sea",
+        "mag": "4.656616",
+        "time": "2026-01-31 17:19:55.552662",
+        "id": "bmg2026cedk",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.782471", "6.271746", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.782620",
+        "time": "2026-01-31 07:23:17.552044",
+        "id": "bmg2026cdjs",
+        "fase": "39"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.318481", "3.523974", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "328.013000",
+        "place": "Celebes Sea",
+        "mag": "4.608932",
+        "time": "2026-01-31 00:36:08.477036",
+        "id": "bmg2026ccwh",
+        "fase": "188"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["103.430275", "-3.561887", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "212.485214",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.865295",
+        "time": "2026-01-30 23:03:36.024966",
+        "id": "bmg2026cctg",
+        "fase": "230"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["96.984772", "1.355304", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.082239",
+        "place": "Off West Coast of Northern Sumatra",
+        "mag": "4.667934",
+        "time": "2026-01-30 20:47:51.143317",
+        "id": "bmg2026ccot",
+        "fase": "42"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.153610", "5.270816", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Celebes Sea",
+        "mag": "4.678278",
+        "time": "2026-01-30 18:23:07.649524",
+        "id": "bmg2026ccjz",
+        "fase": "53"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.011116", "6.084506", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "29.985081",
+        "place": "Mindanao, Philippines",
+        "mag": "4.769562",
+        "time": "2026-01-30 06:14:52.023455",
+        "id": "bmg2026cbly",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.661438", "-0.293189", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "86.055794",
+        "place": "Southern Molucca Sea",
+        "mag": "4.799380",
+        "time": "2026-01-30 01:15:31.665242",
+        "id": "bmg2026cbcc",
+        "fase": "247"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.727654", "6.354372", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "13.312361",
+        "place": "Mindanao, Philippines",
+        "mag": "5.085553",
+        "time": "2026-01-30 00:49:17.461917",
+        "id": "bmg2026cbbf",
+        "fase": "78"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.801102", "6.538508", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "6.194465",
+        "place": "Mindanao, Philippines",
+        "mag": "4.896908",
+        "time": "2026-01-29 23:05:18.596954",
+        "id": "bmg2026caxu",
+        "fase": "92"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.752922", "6.502780", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "21.013166",
+        "place": "Mindanao, Philippines",
+        "mag": "4.701154",
+        "time": "2026-01-29 22:31:13.26843",
+        "id": "bmg2026cawr",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.088852", "-6.939747", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "155.148361",
+        "place": "Banda Sea",
+        "mag": "4.795096",
+        "time": "2026-01-29 21:52:56.792569",
+        "id": "bmg2026cavk",
+        "fase": "23"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["153.953278", "-5.407941", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "98.726524",
+        "place": "New Ireland Region, Papua New Guinea",
+        "mag": "5.224095",
+        "time": "2026-01-29 20:28:25.810522",
+        "id": "bmg2026casp",
+        "fase": "78"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.915024", "-6.474182", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "203.193130",
+        "place": "Banda Sea",
+        "mag": "4.673458",
+        "time": "2026-01-29 00:50:52.627748",
+        "id": "bmg2026bzft",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.766068", "6.228721", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "23.199951",
+        "place": "Mindanao, Philippines",
+        "mag": "4.821123",
+        "time": "2026-01-28 23:44:00.989575",
+        "id": "bmg2026bzdo",
+        "fase": "54"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["152.091614", "-4.439493", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "167.667374",
+        "place": "New Britain Region, Papua New Guinea",
+        "mag": "4.849508",
+        "time": "2026-01-28 22:32:38.062222",
+        "id": "bmg2026bzbf",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.501411", "1.480742", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.846609",
+        "time": "2026-01-28 18:52:52.158798",
+        "id": "bmg2026byty",
+        "fase": "64"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["118.385727", "-8.678734", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "109.240532",
+        "place": "Sumbawa Region, Indonesia",
+        "mag": "5.046977",
+        "time": "2026-01-28 18:30:17.092216",
+        "id": "bmg2026bytf",
+        "fase": "111"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.417603", "-7.330839", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Tanimbar Islands Region, Indonesia",
+        "mag": "5.052587",
+        "time": "2026-01-28 17:22:26.34142",
+        "id": "bmg2026byqz",
+        "fase": "62"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.836632", "6.188047", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "11.656645",
+        "place": "Mindanao, Philippines",
+        "mag": "4.840778",
+        "time": "2026-01-28 15:58:05.853756",
+        "id": "bmg2026byoe",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.837700", "8.119170", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "50.391933",
+        "place": "Mindanao, Philippines",
+        "mag": "4.813381",
+        "time": "2026-01-28 14:48:46.553244",
+        "id": "bmg2026bylx",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.734337", "6.451101", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.958513",
+        "time": "2026-01-28 14:33:13.246592",
+        "id": "bmg2026bylk",
+        "fase": "52"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.729431", "6.373627", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.820122",
+        "time": "2026-01-28 13:41:33.632161",
+        "id": "bmg2026byjr",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.776291", "6.303163", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "25.038021",
+        "place": "Mindanao, Philippines",
+        "mag": "4.715445",
+        "time": "2026-01-28 12:55:31.463415",
+        "id": "bmg2026byie",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.727867", "6.302960", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "38.779579",
+        "place": "Mindanao, Philippines",
+        "mag": "4.842159",
+        "time": "2026-01-28 09:30:33.426602",
+        "id": "bmg2026bybk",
+        "fase": "14"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.713814", "6.411124", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.824051",
+        "time": "2026-01-28 09:24:36.624611",
+        "id": "bmg2026bybf",
+        "fase": "20"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.431198", "6.773062", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "5.738431",
+        "time": "2026-01-28 08:38:45.425898",
+        "id": "bmg2026bxzs",
+        "fase": "71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.701538", "6.468692", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "5.492431",
+        "time": "2026-01-28 08:34:32.524356",
+        "id": "bmg2026bxzo",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.326843", "6.929227", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "213.305847",
+        "place": "Mindanao, Philippines",
+        "mag": "4.573920",
+        "time": "2026-01-28 07:43:23.136203",
+        "id": "bmg2026bxxw",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.837547", "6.471670", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "21.498180",
+        "place": "Mindanao, Philippines",
+        "mag": "6.035836",
+        "time": "2026-01-28 06:47:03.345183",
+        "id": "bmg2026bxwa",
+        "fase": "248"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.711899", "6.315001", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "28.129301",
+        "place": "Mindanao, Philippines",
+        "mag": "4.736445",
+        "time": "2026-01-28 06:31:24.68688",
+        "id": "bmg2026bxvm",
+        "fase": "71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.823204", "6.405896", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.730243",
+        "time": "2026-01-28 05:08:21.747887",
+        "id": "bmg2026bxst",
+        "fase": "49"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.853279", "6.394590", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "15.742014",
+        "place": "Mindanao, Philippines",
+        "mag": "4.691931",
+        "time": "2026-01-28 03:33:51.038361",
+        "id": "bmg2026bxpq",
+        "fase": "31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.065285", "6.369521", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "14.370018",
+        "place": "Mindanao, Philippines",
+        "mag": "5.096346",
+        "time": "2026-01-28 03:24:33.291164",
+        "id": "bmg2026bxpi",
+        "fase": "66"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.831207", "6.317765", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "13.837102",
+        "place": "Mindanao, Philippines",
+        "mag": "4.928682",
+        "time": "2026-01-28 01:41:52.522312",
+        "id": "bmg2026bxly",
+        "fase": "86"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.839005", "6.542843", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "34.395710",
+        "place": "Mindanao, Philippines",
+        "mag": "4.754166",
+        "time": "2026-01-27 23:20:02.689849",
+        "id": "bmg2026bxhg",
+        "fase": "68"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["112.452049", "-10.169202", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Java, Indonesia",
+        "mag": "4.538864",
+        "time": "2026-01-27 23:06:06.684777",
+        "id": "bmg2026bxgu",
+        "fase": "49"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.839661", "6.428116", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "21.503603",
+        "place": "Mindanao, Philippines",
+        "mag": "4.983392",
+        "time": "2026-01-27 19:54:16.660737",
+        "id": "bmg2026bxam",
+        "fase": "125"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.713959", "6.215791", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "32.784412",
+        "place": "Mindanao, Philippines",
+        "mag": "4.853990",
+        "time": "2026-01-27 19:46:27.782146",
+        "id": "bmg2026bxaf",
+        "fase": "82"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.718887", "6.275445", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.837952",
+        "time": "2026-01-27 17:44:00.255506",
+        "id": "bmg2026bwwe",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.764061", "6.373934", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "5.033745",
+        "time": "2026-01-27 17:05:10.734582",
+        "id": "bmg2026bwux",
+        "fase": "88"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.793541", "6.388730", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "5.216874",
+        "place": "Mindanao, Philippines",
+        "mag": "5.043551",
+        "time": "2026-01-27 15:50:38.240228",
+        "id": "bmg2026bwsl",
+        "fase": "42"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.652687", "6.441740", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "42.755161",
+        "place": "Mindanao, Philippines",
+        "mag": "4.692571",
+        "time": "2026-01-27 14:47:40.643441",
+        "id": "bmg2026bwqj",
+        "fase": "35"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["101.104630", "-4.532309", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.600662",
+        "time": "2026-01-27 14:20:07.020585",
+        "id": "bmg2026bwpl",
+        "fase": "38"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["111.343781", "-8.095961", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "123.987526",
+        "place": "Java, Indonesia",
+        "mag": "5.681507",
+        "time": "2026-01-27 01:20:43.312124",
+        "id": "bmg2026bvpt",
+        "fase": "418"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["143.615219", "-6.566792", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "New Guinea, Papua New Guinea",
+        "mag": "5.601515",
+        "time": "2026-01-26 17:06:23.515842",
+        "id": "bmg2026buzl",
+        "fase": "69"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["105.156021", "-7.484363", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "33.773998",
+        "place": "Java, Indonesia",
+        "mag": "4.596621",
+        "time": "2026-01-26 13:51:37.41811",
+        "id": "bmg2026buta",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.788483", "-7.718009", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "165.826416",
+        "place": "Banda Sea",
+        "mag": "5.094389",
+        "time": "2026-01-26 00:54:01.765192",
+        "id": "bmg2026bttj",
+        "fase": "226"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.784531", "6.471530", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "170.008362",
+        "place": "Mindanao, Philippines",
+        "mag": "4.519312",
+        "time": "2026-01-26 00:33:42.455689",
+        "id": "bmg2026btsr",
+        "fase": "9"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["110.213348", "-8.830491", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Java, Indonesia",
+        "mag": "4.735070",
+        "time": "2026-01-25 08:51:25.390039",
+        "id": "bmg2026bsnp",
+        "fase": "69"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["130.709900", "-6.219007", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "110.552063",
+        "place": "Banda Sea",
+        "mag": "5.124896",
+        "time": "2026-01-25 06:22:33.593041",
+        "id": "bmg2026bsis",
+        "fase": "79"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.473305", "5.027393", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "172.175751",
+        "place": "Mindanao, Philippines",
+        "mag": "5.024955",
+        "time": "2026-01-24 10:45:55.019025",
+        "id": "bmg2026bqvw",
+        "fase": "185"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.560425", "5.391202", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.511111",
+        "time": "2026-01-24 00:52:34.257015",
+        "id": "bmg2026bqch",
+        "fase": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.458366", "4.132565", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Celebes Sea",
+        "mag": "4.531519",
+        "time": "2026-01-23 23:30:42.321122",
+        "id": "bmg2026bpzp",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["111.899094", "-10.782664", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Java, Indonesia",
+        "mag": "4.697012",
+        "time": "2026-01-23 10:05:43.922904",
+        "id": "bmg2026bozb",
+        "fase": "25"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["111.882767", "-0.054952", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Borneo",
+        "mag": "4.751144",
+        "time": "2026-01-23 07:47:55.348585",
+        "id": "bmg2026boun",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.661545", "13.668855", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "100.131920",
+        "place": "Mariana Islands",
+        "mag": "4.953492",
+        "time": "2026-01-22 03:53:16.012031",
+        "id": "bmg2026bmrg",
+        "fase": "21"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.702919", "-0.237030", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "80.779228",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "5.133620",
+        "time": "2026-01-21 22:44:44.524242",
+        "id": "bmg2026bmhc",
+        "fase": "203"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.499725", "-7.018737", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "394.101410",
+        "place": "Banda Sea",
+        "mag": "4.801811",
+        "time": "2026-01-21 14:30:22.922154",
+        "id": "bmg2026blqu",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.789497", "6.502516", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "41.571865",
+        "place": "Mindanao, Philippines",
+        "mag": "4.816616",
+        "time": "2026-01-21 12:59:28.164041",
+        "id": "bmg2026blnt",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.765808", "-7.094162", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "137.000000",
+        "place": "Banda Sea",
+        "mag": "5.401424",
+        "time": "2026-01-21 05:49:38.057231",
+        "id": "bmg2026bkzp",
+        "fase": "166"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.724106", "5.935058", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "96.641525",
+        "place": "Mindanao, Philippines",
+        "mag": "4.580864",
+        "time": "2026-01-21 05:14:33.585445",
+        "id": "bmg2026bkyl",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.881447", "3.111837", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "487.380676",
+        "place": "Celebes Sea",
+        "mag": "5.034524",
+        "time": "2026-01-21 04:10:01.679842",
+        "id": "bmg2026bkwi",
+        "fase": "143"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.869980", "6.410921", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "5.375908",
+        "time": "2026-01-21 01:33:06.332696",
+        "id": "bmg2026bkrd",
+        "fase": "152"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.689415", "6.192481", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.691238",
+        "time": "2026-01-20 23:25:20.775754",
+        "id": "bmg2026bkmx",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["97.129814", "0.049817", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "32.807972",
+        "place": "Northern Sumatra, Indonesia",
+        "mag": "4.618569",
+        "time": "2026-01-20 16:25:24.113065",
+        "id": "bmg2026bjzb",
+        "fase": "44"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.774712", "6.182441", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "79.840179",
+        "place": "Mindanao, Philippines",
+        "mag": "4.667053",
+        "time": "2026-01-20 10:29:59.064189",
+        "id": "bmg2026bjni",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.904236", "-5.439727", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "104.293854",
+        "place": "Papua New Guinea Region",
+        "mag": "6.449272",
+        "time": "2026-01-20 07:22:01.855307",
+        "id": "bmg2026bjhd",
+        "fase": "168"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.515686", "-7.424975", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "174.157272",
+        "place": "Banda Sea",
+        "mag": "4.600587",
+        "time": "2026-01-19 22:15:55.729678",
+        "id": "bmg2026bipd",
+        "fase": "133"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.739716", "6.215542", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.688854",
+        "time": "2026-01-19 19:54:03.308607",
+        "id": "bmg2026bikl",
+        "fase": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.873001", "6.478574", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "27.794662",
+        "place": "Mindanao, Philippines",
+        "mag": "5.598027",
+        "time": "2026-01-19 19:00:25.470556",
+        "id": "bmg2026biir",
+        "fase": "265"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.795227", "6.350246", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "18.208302",
+        "place": "Mindanao, Philippines",
+        "mag": "4.645684",
+        "time": "2026-01-19 18:53:38.812317",
+        "id": "bmg2026biil",
+        "fase": "87"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["141.583405", "12.333376", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "142.536987",
+        "place": "South of Mariana Islands",
+        "mag": "4.550300",
+        "time": "2026-01-19 17:59:34.449781",
+        "id": "bmg2026bigr",
+        "fase": "41"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["102.142258", "-2.642517", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "169.526962",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.806677",
+        "time": "2026-01-19 11:02:48.824132",
+        "id": "bmg2026bhsx",
+        "fase": "115"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.612709", "-7.724529", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "97.096878",
+        "place": "Banda Sea",
+        "mag": "4.535522",
+        "time": "2026-01-19 07:49:17.651147",
+        "id": "bmg2026bhmn",
+        "fase": "17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["105.790695", "-5.846915", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "127.782265",
+        "place": "Sunda Strait, Indonesia",
+        "mag": "4.648784",
+        "time": "2026-01-19 01:10:50.671574",
+        "id": "bmg2026bgzk",
+        "fase": "63"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.665436", "-0.119960", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "68.175903",
+        "place": "Southern Molucca Sea",
+        "mag": "5.014087",
+        "time": "2026-01-18 17:53:13.246742",
+        "id": "bmg2026bgky",
+        "fase": "133"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["138.857132", "-2.203702", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "17.868563",
+        "place": "West Papua, Indonesia",
+        "mag": "4.739501",
+        "time": "2026-01-18 06:38:55.511656",
+        "id": "bmg2026bfos",
+        "fase": "93"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["125.372070", "0.533793", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "42.944016",
+        "place": "Northern Molucca Sea",
+        "mag": "5.132345",
+        "time": "2026-01-18 04:16:48.860943",
+        "id": "bmg2026bfka",
+        "fase": "131"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.347565", "-2.551814", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "35.658543",
+        "place": "Near North Coast of West Papua",
+        "mag": "4.808023",
+        "time": "2026-01-18 01:15:14.051893",
+        "id": "bmg2026bfea",
+        "fase": "67"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.567215", "4.916307", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.598678",
+        "time": "2026-01-17 13:53:04.886877",
+        "id": "bmg2026behn",
+        "fase": "15"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.735382", "-3.261885", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "72.689285",
+        "place": "Seram, Indonesia",
+        "mag": "5.149003",
+        "time": "2026-01-16 23:50:45.047786",
+        "id": "bmg2026bdft",
+        "fase": "213"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["144.081238", "-4.389543", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "123.846207",
+        "place": "Near North Coast of Papua New Guinea",
+        "mag": "4.932197",
+        "time": "2026-01-16 22:07:32.54343",
+        "id": "bmg2026bdci",
+        "fase": "65"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["118.502060", "-9.182683", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Sumbawa Region, Indonesia",
+        "mag": "4.650814",
+        "time": "2026-01-15 14:49:28.918669",
+        "id": "bmg2026bask",
+        "fase": "48"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.261353", "1.942668", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "99.739479",
+        "place": "Halmahera, Indonesia",
+        "mag": "4.802426",
+        "time": "2026-01-14 18:00:29.353994",
+        "id": "bmg2026azde",
+        "fase": "89"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["147.178207", "-5.682245", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "174.894745",
+        "place": "Papua New Guinea Region",
+        "mag": "4.756385",
+        "time": "2026-01-14 15:29:03.78382",
+        "id": "bmg2026ayye",
+        "fase": "27"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["122.465935", "-9.238823", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Savu Sea",
+        "mag": "4.914623",
+        "time": "2026-01-14 14:39:21.006028",
+        "id": "bmg2026aywo",
+        "fase": "102"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.607635", "-7.396427", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "124.486954",
+        "place": "Banda Sea",
+        "mag": "4.839466",
+        "time": "2026-01-14 06:10:28.789068",
+        "id": "bmg2026ayfu",
+        "fase": "12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.155197", "1.147080", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Northern Molucca Sea",
+        "mag": "4.741204",
+        "time": "2026-01-13 18:58:09.595813",
+        "id": "bmg2026axjp",
+        "fase": "84"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["124.496300", "4.691662", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "40.275906",
+        "place": "Celebes Sea",
+        "mag": "4.732259",
+        "time": "2026-01-13 17:23:01.605529",
+        "id": "bmg2026axgl",
+        "fase": "71"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["134.909073", "-8.574603", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Arafura Sea",
+        "mag": "4.866221",
+        "time": "2026-01-13 10:37:55.776138",
+        "id": "bmg2026awtc",
+        "fase": "47"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["145.419159", "-3.724352", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "44.763603",
+        "place": "Near North Coast of Papua New Guinea",
+        "mag": "4.849819",
+        "time": "2026-01-13 06:43:07.951684",
+        "id": "bmg2026awli",
+        "fase": "18"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.737785", "2.966886", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "31.191275",
+        "place": "Northern Molucca Sea",
+        "mag": "4.908558",
+        "time": "2026-01-13 01:27:17.132797",
+        "id": "bmg2026awax",
+        "fase": "56"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["102.580170", "-4.784319", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "12.841107",
+        "place": "Southern Sumatra, Indonesia",
+        "mag": "4.711347",
+        "time": "2026-01-13 01:20:44.320072",
+        "id": "bmg2026awas",
+        "fase": "52"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["128.947495", "-7.755583", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "89.060860",
+        "place": "Banda Sea",
+        "mag": "4.513494",
+        "time": "2026-01-12 21:59:32.284273",
+        "id": "bmg2026avub",
+        "fase": "143"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.906097", "3.636543", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "39.828655",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.505744",
+        "time": "2026-01-12 21:03:24.896683",
+        "id": "bmg2026avsf",
+        "fase": "59"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["139.729828", "-2.934425", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "53.734856",
+        "place": "Near North Coast of West Papua",
+        "mag": "4.934527",
+        "time": "2026-01-12 19:18:08.464255",
+        "id": "bmg2026avot",
+        "fase": "19"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.348869", "10.239926", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "80.884140",
+        "place": "Philippine Islands Region",
+        "mag": "4.893732",
+        "time": "2026-01-12 16:48:24.232836",
+        "id": "bmg2026avju",
+        "fase": "35"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["123.589645", "-0.298209", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Minahassa Peninsula, Sulawesi",
+        "mag": "4.667695",
+        "time": "2026-01-12 08:39:51.987528",
+        "id": "bmg2026autr",
+        "fase": "62"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["113.383492", "-10.671703", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Java, Indonesia",
+        "mag": "4.872731",
+        "time": "2026-01-12 04:43:38.247847",
+        "id": "bmg2026aulx",
+        "fase": "50"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.030556", "7.675738", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "74.425636",
+        "place": "Mindanao, Philippines",
+        "mag": "4.922576",
+        "time": "2026-01-11 17:28:00.774728",
+        "id": "bmg2026atpp",
+        "fase": "22"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.580566", "-7.080185", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "171.225464",
+        "place": "Banda Sea",
+        "mag": "4.884234",
+        "time": "2026-01-10 20:43:37.365032",
+        "id": "bmg2026asao",
+        "fase": "181"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.015717", "3.669895", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "29.371477",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "4.990468",
+        "time": "2026-01-10 15:15:15.536704",
+        "id": "bmg2026arps",
+        "fase": "78"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.929482", "3.649048", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "67.604797",
+        "place": "Talaud Islands, Indonesia",
+        "mag": "6.408738",
+        "time": "2026-01-10 14:58:28.183888",
+        "id": "bmg2026arpe",
+        "fase": "366"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["114.799812", "-9.254776", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "36.570045",
+        "place": "South of Bali, Indonesia",
+        "mag": "4.746405",
+        "time": "2026-01-10 09:34:07.455685",
+        "id": "bmg2026arem",
+        "fase": "55"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["113.449646", "-10.072533", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "South of Java, Indonesia",
+        "mag": "4.545965",
+        "time": "2026-01-09 15:40:38.427705",
+        "id": "bmg2026apvb",
+        "fase": "30"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.797058", "-7.060825", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "178.341171",
+        "place": "Banda Sea",
+        "mag": "4.862176",
+        "time": "2026-01-08 23:00:57.483419",
+        "id": "bmg2026aooc",
+        "fase": "73"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.276489", "8.249903", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "36.087265",
+        "place": "Mindanao, Philippines",
+        "mag": "4.854413",
+        "time": "2026-01-08 20:06:39.840424",
+        "id": "bmg2026aoii",
+        "fase": "40"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["113.722488", "-10.270598", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "8.000000",
+        "place": "South of Java, Indonesia",
+        "mag": "4.871690",
+        "time": "2026-01-08 19:16:15.260371",
+        "id": "bmg2026aogr",
+        "fase": "90"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.614738", "-0.550732", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "3.000000",
+        "place": "Halmahera, Indonesia",
+        "mag": "5.032421",
+        "time": "2026-01-08 14:57:15.316245",
+        "id": "bmg2026anyd",
+        "fase": "105"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["142.315369", "-4.204227", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "103.578964",
+        "place": "New Guinea, Papua New Guinea",
+        "mag": "4.798850",
+        "time": "2026-01-08 03:21:24.620912",
+        "id": "bmg2026anbe",
+        "fase": "45"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["129.659042", "-7.060991", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "163.139267",
+        "place": "Banda Sea",
+        "mag": "5.193789",
+        "time": "2026-01-07 18:57:08.199587",
+        "id": "bmg2026amkn",
+        "fase": "170"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.746292", "7.492142", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.849835",
+        "time": "2026-01-07 17:35:56.925064",
+        "id": "bmg2026amhw",
+        "fase": "28"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.946777", "7.093326", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Mindanao, Philippines",
+        "mag": "4.823027",
+        "time": "2026-01-07 13:48:03.203336",
+        "id": "bmg2026amai",
+        "fase": "44"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.018372", "7.168319", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Philippine Islands Region",
+        "mag": "4.618423",
+        "time": "2026-01-07 06:16:22.976166",
+        "id": "bmg2026alll",
+        "fase": "29"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.969208", "7.251955", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "73.231911",
+        "place": "Mindanao, Philippines",
+        "mag": "4.809681",
+        "time": "2026-01-07 04:46:59.391864",
+        "id": "bmg2026alim",
+        "fase": "62"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.148163", "7.301215", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "47.513683",
+        "place": "Philippine Islands Region",
+        "mag": "4.930273",
+        "time": "2026-01-07 04:36:52.882963",
+        "id": "bmg2026alid",
+        "fase": "58"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.012535", "7.218685", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "69.589417",
+        "place": "Philippine Islands Region",
+        "mag": "5.285890",
+        "time": "2026-01-07 04:13:04.856724",
+        "id": "bmg2026alhj",
+        "fase": "175"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["127.069801", "7.184654", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "10.000000",
+        "place": "Philippine Islands Region",
+        "mag": "4.547142",
+        "time": "2026-01-07 03:58:22.75458",
+        "id": "bmg2026algw",
+        "fase": "9"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": ["126.945946", "7.226583", 1]
+      },
+      "type": "Feature",
+      "properties": {
+        "status": "M",
+        "depth": "69.985023",
+        "place": "Mindanao, Philippines",
+        "mag": "6.312074",
+        "time": "2026-01-07 03:03:00.823495",
+        "id": "bmg2026alfb",
+        "fase": "344"
+      }
+    }
+  ]
+}

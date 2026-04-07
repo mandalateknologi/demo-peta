@@ -1,0 +1,266 @@
+{
+  "aceh": {
+    "name": "Aceh",
+    "capital": "Banda Aceh",
+    "population": 5274871,
+    "area_km2": 57956,
+    "island_group": "Sumatra",
+    "governor": "Muzakir Manaf"
+  },
+  "north-sumatra": {
+    "name": "Sumatera Utara",
+    "capital": "Medan",
+    "population": 14799361,
+    "area_km2": 72981,
+    "island_group": "Sumatra",
+    "governor": "Edy Rahmayadi"
+  },
+  "west-sumatra": {
+    "name": "Sumatera Barat",
+    "capital": "Padang",
+    "population": 5534472,
+    "area_km2": 42297,
+    "island_group": "Sumatra",
+    "governor": "Mahyeldi Ansharullah"
+  },
+  "riau": {
+    "name": "Riau",
+    "capital": "Pekanbaru",
+    "population": 6394087,
+    "area_km2": 87023,
+    "island_group": "Sumatra",
+    "governor": "Abdul Wahid"
+  },
+  "riau-islands": {
+    "name": "Kepulauan Riau",
+    "capital": "Tanjung Pinang",
+    "population": 2064564,
+    "area_km2": 8201,
+    "island_group": "Sumatra",
+    "governor": "Ansar Ahmad"
+  },
+  "jambi": {
+    "name": "Jambi",
+    "capital": "Jambi",
+    "population": 3548228,
+    "area_km2": 50058,
+    "island_group": "Sumatra",
+    "governor": "Al Haris"
+  },
+  "south-sumatra": {
+    "name": "Sumatera Selatan",
+    "capital": "Palembang",
+    "population": 8551824,
+    "area_km2": 91592,
+    "island_group": "Sumatra",
+    "governor": "Herman Deru"
+  },
+  "bengkulu": {
+    "name": "Bengkulu",
+    "capital": "Bengkulu",
+    "population": 2010670,
+    "area_km2": 19919,
+    "island_group": "Sumatra",
+    "governor": "Rohidin Mersyah"
+  },
+  "lampung": {
+    "name": "Lampung",
+    "capital": "Bandar Lampung",
+    "population": 9007848,
+    "area_km2": 34623,
+    "island_group": "Sumatra",
+    "governor": "Arinal Djunaidi"
+  },
+  "bangka-belitung": {
+    "name": "Bangka-Belitung",
+    "capital": "Pangkal Pinang",
+    "population": 1455678,
+    "area_km2": 16424,
+    "island_group": "Sumatra",
+    "governor": "Erzaldi Rosman"
+  },
+  "banten": {
+    "name": "Banten",
+    "capital": "Serang",
+    "population": 11904562,
+    "area_km2": 9662,
+    "island_group": "Java",
+    "governor": "Andra Soni"
+  },
+  "jakarta": {
+    "name": "Jakarta Raya",
+    "capital": "Jakarta",
+    "population": 10562088,
+    "area_km2": 661,
+    "island_group": "Java",
+    "governor": "Pramono Anung"
+  },
+  "west-java": {
+    "name": "Jawa Barat",
+    "capital": "Bandung",
+    "population": 48274203,
+    "area_km2": 35377,
+    "island_group": "Java",
+    "governor": "Dedi Mulyadi"
+  },
+  "central-java": {
+    "name": "Jawa Tengah",
+    "capital": "Semarang",
+    "population": 36516035,
+    "area_km2": 32800,
+    "island_group": "Java",
+    "governor": "Ahmad Luthfi"
+  },
+  "yogyakarta": {
+    "name": "Yogyakarta",
+    "capital": "Yogyakarta",
+    "population": 3668719,
+    "area_km2": 3133,
+    "island_group": "Java",
+    "governor": "Sri Sultan Hamengkubuwono X"
+  },
+  "east-java": {
+    "name": "Jawa Timur",
+    "capital": "Surabaya",
+    "population": 40665696,
+    "area_km2": 47799,
+    "island_group": "Java",
+    "governor": "Khofifah Indar Parawansa"
+  },
+  "bali": {
+    "name": "Bali",
+    "capital": "Denpasar",
+    "population": 4317404,
+    "area_km2": 5780,
+    "island_group": "Bali & Nusa Tenggara",
+    "governor": "Wayan Koster"
+  },
+  "west-nusa-tenggara": {
+    "name": "Nusa Tenggara Barat",
+    "capital": "Mataram",
+    "population": 5175482,
+    "area_km2": 18572,
+    "island_group": "Bali & Nusa Tenggara",
+    "governor": "Lalu Muhamad Iqbal"
+  },
+  "east-nusa-tenggara": {
+    "name": "Nusa Tenggara Timur",
+    "capital": "Kupang",
+    "population": 5325566,
+    "area_km2": 48718,
+    "island_group": "Bali & Nusa Tenggara",
+    "governor": "Emanuel Melkiades Laka Lena"
+  },
+  "west-kalimantan": {
+    "name": "Kalimantan Barat",
+    "capital": "Pontianak",
+    "population": 5414390,
+    "area_km2": 147307,
+    "island_group": "Kalimantan",
+    "governor": "Sutarmidji"
+  },
+  "central-kalimantan": {
+    "name": "Kalimantan Tengah",
+    "capital": "Palangka Raya",
+    "population": 2669969,
+    "area_km2": 153564,
+    "island_group": "Kalimantan",
+    "governor": "Agustiar Sabran"
+  },
+  "south-kalimantan": {
+    "name": "Kalimantan Selatan",
+    "capital": "Banjarbaru",
+    "population": 4072476,
+    "area_km2": 38744,
+    "island_group": "Kalimantan",
+    "governor": "Muhidin"
+  },
+  "east-kalimantan": {
+    "name": "Kalimantan Timur",
+    "capital": "Samarinda",
+    "population": 3766039,
+    "area_km2": 127267,
+    "island_group": "Kalimantan",
+    "governor": "Rudy Mas'ud"
+  },
+  "north-sulawesi": {
+    "name": "Sulawesi Utara",
+    "capital": "Manado",
+    "population": 2621923,
+    "area_km2": 15273,
+    "island_group": "Sulawesi",
+    "governor": "Yulius Selvanus"
+  },
+  "gorontalo": {
+    "name": "Gorontalo",
+    "capital": "Gorontalo",
+    "population": 1171681,
+    "area_km2": 11257,
+    "island_group": "Sulawesi",
+    "governor": "Gusnar Ismail"
+  },
+  "central-sulawesi": {
+    "name": "Sulawesi Tengah",
+    "capital": "Palu",
+    "population": 2985734,
+    "area_km2": 61841,
+    "island_group": "Sulawesi",
+    "governor": "Anwar Hafid"
+  },
+  "west-sulawesi": {
+    "name": "Sulawesi Barat",
+    "capital": "Mamuju",
+    "population": 1419229,
+    "area_km2": 16787,
+    "island_group": "Sulawesi",
+    "governor": "Suhardi Duka"
+  },
+  "south-sulawesi": {
+    "name": "Sulawesi Selatan",
+    "capital": "Makassar",
+    "population": 9073509,
+    "area_km2": 46717,
+    "island_group": "Sulawesi",
+    "governor": "Andi Sudirman Sulaiman"
+  },
+  "southeast-sulawesi": {
+    "name": "Sulawesi Tenggara",
+    "capital": "Kendari",
+    "population": 2624875,
+    "area_km2": 38067,
+    "island_group": "Sulawesi",
+    "governor": "Lukman Abunawas"
+  },
+  "maluku": {
+    "name": "Maluku",
+    "capital": "Ambon",
+    "population": 1848923,
+    "area_km2": 46914,
+    "island_group": "Maluku",
+    "governor": "Hendrik Lewerissa"
+  },
+  "north-maluku": {
+    "name": "Maluku Utara",
+    "capital": "Sofifi",
+    "population": 1282937,
+    "area_km2": 31982,
+    "island_group": "Maluku",
+    "governor": "Sherly Tjoanda"
+  },
+  "west-papua": {
+    "name": "Papua Barat",
+    "capital": "Manokwari",
+    "population": 981485,
+    "area_km2": 97024,
+    "island_group": "Papua",
+    "governor": "Dominggus Mandacan"
+  },
+  "papua": {
+    "name": "Papua",
+    "capital": "Jayapura",
+    "population": 4303707,
+    "area_km2": 319036,
+    "island_group": "Papua",
+    "governor": "Lukas Enembe"
+  }
+}

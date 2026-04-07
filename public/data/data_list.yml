@@ -1,0 +1,80 @@
+data_sources:
+  hotspot::
+    sipongi:
+      source: Sipongi (Indonesia)
+      description: "Hotspot data in Indonesia. Coordinates extracted from Sipongi (Sistem Informasi Penginderaan Jauh Terpadu) website."
+      URL: https://opsroom.sipongidata.my.id/api/opsroom/indoHotspot?wilayah=IN&filterperiode=false&from=&to=&late=24&satelit[]=NASA-MODIS&satelit[]=NASA-SNPP&satelit[]=NASA-NOAA20&confidence[]=low&confidence[]=medium&confidence[]=high&provinsi=&kabkota=
+      source_type: json
+      filename: data/hotspot_sipongi.json
+      need_proxy: false
+      need_scraping: false
+  earthquake::
+    bmkg_realtime:
+      source: BMKG (Indonesia)
+      description: "Real-time earthquake data in Indonesia. Coordinates extracted from BMKG (Meteorology, Climatology, and Geophysics Agency) website."
+      URL: https://bmkg-content-inatews.storage.googleapis.com/datagempa.json
+      source_type: json
+      filename: data/datagempa.json
+      need_proxy: true
+      need_scraping: false
+    bmkg_global:
+      source: BMKG (Indonesia)
+      description: "Global earthquake data near Indonesia only. Coordinates extracted from BMKG (Meteorology, Climatology, and Geophysics Agency) website."
+      URL: https://bmkg-content-inatews.storage.googleapis.com/3mgempaQL.json
+      source_type: json
+      filename: data/3mgempaQL.json
+      need_proxy: true
+      need_scraping: false
+    bmkg_cataloque:
+      source: BMKG (Indonesia)
+      description: "Earthquake catalogue data. Coordinates extracted from BMKG (Meteorology, Climatology, and Geophysics Agency) website."
+      URL: https://bmkg-content-inatews.storage.googleapis.com/katalog_gempa.json
+      source_type: json
+      filename: data/katalog_gempa.json
+      need_proxy: true
+      need_scraping: false
+  volcano_and_landslide:
+    esdm_earthquake:
+      source: ESDM (Indonesia)
+      description: "Earthquakes in Indonesia. Coordinates extracted from ESDM (Ministry of Energy and Mineral Resources) website."
+      URL: None
+      source_type: json
+      filename: data/vsi-gempa.json
+      need_proxy: true
+      need_scraping: false
+    esdm_landslide:
+      source: ESDM (Indonesia)
+      description: "Landslides in Indonesia. Coordinates extracted from ESDM (Ministry of Energy and Mineral Resources) website."
+      URL: None
+      source_type: json
+      filename: data/vsi-gerakan-tanah.json
+      need_proxy: true
+      need_scraping: false
+      pin_image: data/landslide.gif
+    esdm_volcano:
+      source: ESDM (Indonesia)
+      description: "Volcanoes in Indonesia. Coordinates extracted from ESDM (Ministry of Energy and Mineral Resources) website."
+      URL: None
+      source_type: json
+      filename: data/vsi-gunung-api.json
+      need_proxy: true
+      need_scraping: false
+      pin_image_rules:
+        - condition: "ga_status" == 1
+          image: data/no_erupt.png
+          status: "LEVEL 1 (Normal)"
+        - condition: "ga_status" == 2
+          image: data/erupt2.gif
+          status: "LEVEL 2 (Waspada)"
+        - condition: "ga_status" == 3
+          image: data/erupt3.gif
+          status: "LEVEL 3 (Siaga)"
+  gamma-irradiance:
+    bmkg_irrad:
+      source: Gamma irradiator facilities worldwide
+      description: "Gamma irradiator facilities worldwide. Coordinates extracted from Tableau Public visualization.",
+      URL: None
+      source_type: json
+      filename: data/gamma-irradiators.json
+      need_proxy: true
+      need_scraping: false

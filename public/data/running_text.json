@@ -1,0 +1,20 @@
+{
+  "data": "Indonesia-Running Text",
+  "sender": "petabencana.id",
+  "list": [
+    {
+      "event": "Gempabumi",
+      "date": "2026-04-07",
+      "time": "20:40:17 WIB",
+      "headline": "Info Gempa dirasakan Mag:4.8, 07-Apr-26 20:40:17 WIB, Lok:6.20 LS, 103.73 BT (Pusat gempa berada di laut 114 km BaratDaya Pesisir Barat), Kedlmn:27 Km ::BMKG",
+      "source": "BMKG"
+    },
+    {
+      "event": "Volcanic Eruption",
+      "date": "2026-04-06",
+      "time": "21:40:17 WIB",
+      "headline": "Info Letusan Gunung Berapi Semeru, Eruption recorded on seismogram with maximum amplitude 22 mm and maximum duration 112 second.",
+      "source": "ESDM"
+    }
+  ]
+}
