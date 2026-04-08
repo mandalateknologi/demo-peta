@@ -13,7 +13,10 @@
 
 ### ✅ Completed
 
-_Nothing yet._
+- [x] A1: Add `DashboardStats` types to `types/index.ts`
+- [x] A3: Install `recharts` dependency
+- [x] A2: Extend AppState with `dashboardVisible` flag
+- [x] B1: Create `dashboardStats.ts` aggregation service
 
 ### 🔄 In Progress
 
@@ -24,12 +27,11 @@ _Nothing yet._
 **Phase A — Core Types & State**
 
 - [ ] A1: Add `DashboardStats` types to `types/index.ts`
-- [ ] A2: Extend AppState with `dashboardVisible` flag
-- [ ] A3: Install recharts dependency
+- [x] A2: Extend AppState with `dashboardVisible` flag
 
 **Phase B — Aggregation Service**
 
-- [ ] B1: Create `dashboardStats.ts` aggregation service
+- [x] B1: Create `dashboardStats.ts` aggregation service
 - [ ] B2: Unit tests for `dashboardStats.ts`
 
 **Phase C — Dashboard Components**
@@ -141,7 +143,7 @@ A1 (types) → A2 (state) → A3 (install recharts) → B1 (aggregation service)
 **Priority**: Critical
 **Estimated time**: 1 hour
 **Dependencies**: None
-**Status**: ⏳ Pending
+**Status**: ✅ Completed
 
 **Description**: Define the `DashboardStats` interface and supporting types in `types/index.ts`. These types are used by the aggregation service and dashboard components.
 
@@ -189,7 +191,7 @@ export interface DashboardStats {
 - ✅ `npm run build` passes with no TypeScript errors
 - ✅ No changes to existing type definitions
 
-**After Implementation**: [To be filled after completion]
+**After Implementation**: Added `LayerCount`, `ProvinceCount`, `TimeSeriesBucket`, and `DashboardStats` to `src/types/index.ts` without modifying existing type definitions. Build verified with `npm run build`.
 
 ---
 
@@ -198,7 +200,7 @@ export interface DashboardStats {
 **Priority**: Critical
 **Estimated time**: 2 hours
 **Dependencies**: Task A1
-**Status**: ⏳ Pending
+**Status**: ✅ Completed
 
 **Description**: Add `dashboardVisible: boolean` to `AppState` and a `TOGGLE_DASHBOARD` action to the reducer. This controls dashboard visibility from the Toolbar and App layout.
 
@@ -236,7 +238,7 @@ case 'TOGGLE_DASHBOARD':
 - ✅ Initial render starts with `dashboardVisible: false`
 - ✅ `npm run build` passes with no TypeScript errors
 
-**After Implementation**: [To be filled after completion]
+**After Implementation**: Added `dashboardVisible` to `AppState`, registered a payload-free `TOGGLE_DASHBOARD` action in the reducer, and initialized dashboard visibility to `false` in `initialState`. Build verified with `npm run build`.
 
 ---
 
@@ -245,7 +247,7 @@ case 'TOGGLE_DASHBOARD':
 **Priority**: Critical
 **Estimated time**: 0.5 hours
 **Dependencies**: None
-**Status**: ⏳ Pending
+**Status**: ✅ Completed
 
 **Description**: Install recharts as a runtime dependency. This is used for `BarChart`, `AreaChart`, `ResponsiveContainer`, and related chart components.
 
@@ -271,7 +273,7 @@ npm install recharts
 - ✅ `npm run build` passes — no peer dependency conflicts
 - ✅ Test import: `import { BarChart } from 'recharts'` compiles without errors
 
-**After Implementation**: [To be filled after completion]
+**After Implementation**: Installed `recharts@3.8.1` as a runtime dependency, which declares React 19 and React DOM 19 peer compatibility. Verified with `npm run build`; the project builds successfully with no TypeScript or bundling errors.
 
 ---
 
@@ -284,7 +286,7 @@ npm install recharts
 **Priority**: High
 **Estimated time**: 4 hours
 **Dependencies**: Task A1
-**Status**: ⏳ Pending
+**Status**: ✅ Completed
 
 **Description**: Create a service module with three pure functions that aggregate existing `DataPoint[]` data into dashboard statistics. These functions are called from the `Dashboard` component via `useMemo`.
 
@@ -437,7 +439,7 @@ export function computeTimeSeries(
 - ✅ `npm run build` passes
 - ✅ Test requirements: see Task B2
 
-**After Implementation**: [To be filled after completion]
+**After Implementation**: Added [src/services/dashboardStats.ts](src/services/dashboardStats.ts) with pure helpers for layer totals, province aggregation using Turf point-in-polygon, and hourly/daily time-series bucketing. Build verification passed with npm run build.
 
 ---
 

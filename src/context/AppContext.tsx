@@ -18,6 +18,7 @@ interface AppState {
   selectedProvince: string | null;
   provinceGeoJSON: GeoJSON.FeatureCollection | null;
   provinceInfo: Record<string, ProvinceInfo>;
+  dashboardVisible: boolean;
 }
 
 type Action =
@@ -30,6 +31,7 @@ type Action =
   | { type: 'SET_PICKING_COORDS'; payload: boolean }
   | { type: 'SET_PICKED_COORDS'; payload: { lat: number; lng: number } | null }
   | { type: 'SELECT_PROVINCE'; payload: string | null }
+  | { type: 'TOGGLE_DASHBOARD' }
   | { type: 'SET_PROVINCE_DATA'; payload: { geoJSON: GeoJSON.FeatureCollection; info: Record<string, ProvinceInfo> } };
 
 function buildFilteredData(raw: Record<string, DataPoint[]>, timeRange: TimeRange) {
@@ -58,6 +60,7 @@ const initialState: AppState = {
   selectedProvince: null,
   provinceGeoJSON: null,
   provinceInfo: {},
+  dashboardVisible: false,
 };
 
 function reducer(state: AppState, action: Action): AppState {
@@ -98,6 +101,9 @@ function reducer(state: AppState, action: Action): AppState {
 
     case 'SELECT_PROVINCE':
       return { ...state, selectedProvince: action.payload };
+
+    case 'TOGGLE_DASHBOARD':
+      return { ...state, dashboardVisible: !state.dashboardVisible };
 
     case 'SET_PROVINCE_DATA':
       return { ...state, provinceGeoJSON: action.payload.geoJSON, provinceInfo: action.payload.info };

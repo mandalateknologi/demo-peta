@@ -59,3 +59,26 @@ export interface ProvinceInfo {
   island_group: string;
   governor: string;
 }
+
+export interface LayerCount {
+  total: number;
+  filtered: number;
+}
+
+export interface ProvinceCount {
+  provinceId: string;
+  name: string;
+  total: number;
+  breakdown: Record<string, number>;
+}
+
+export interface TimeSeriesBucket {
+  bucket: string;
+  counts: Record<string, number>;
+}
+
+export interface DashboardStats {
+  layerCounts: Record<string, LayerCount>;
+  provinceCounts: ProvinceCount[];
+  timeSeries: TimeSeriesBucket[];
+}
