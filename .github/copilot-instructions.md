@@ -54,21 +54,29 @@ npm run preview   # Preview production build
 
 ## Feature & Bug Tracking
 
-All features and bugs are tracked in `docs/plans/FEATURES.md` with unique numbers:
+All features and bugs are tracked in `docs/features/FEATURES.md` with unique numbers:
 
 - **Features**: `FEAT-001`, `FEAT-002`, … (zero-padded, 3 digits)
 - **Bugs**: `BUG-001`, `BUG-002`, … (zero-padded, 3 digits)
 
 ### Workflow
 
-1. **Analyze** — Run the `feature-analysis` skill to evaluate feasibility
-2. **Register** — If the verdict is Implement, add the item to `docs/plans/FEATURES.md`
-3. **Plan** — Create a plan; the plan title must include the tracking number: `## Plan: [Title] [FEAT-XXX]` or `[BUG-XXX]`
-4. **Tasks** — Run the `plan-to-tasks` skill; the output file must be named `TASK_FEAT_XXX_[NAME].md` or `TASK_BUG_XXX_[NAME].md`
-5. **Implement** — Work through tasks; update status in `docs/plans/FEATURES.md` as you progress
+1. **Analyze** — Run the `feature-analysis` skill (prompts for Name + Reason); if verdict is Implement, the skill auto-registers in `docs/features/FEATURES.md` and generates a plan file
+2. **Plan** — Plan file is auto-generated as `docs/plans/PLAN_FEAT_XXX_P01.md`; revisions create P02, P03, … (only latest is active)
+3. **Tasks** — Run the `plan-to-tasks` skill (MUST attach the plan file); output goes to `docs/tasks/TASK_FEAT_XXX_[NAME].md`
+4. **Implement** — Engineers claim tasks by adding their name to the `Assigned To` field; update status in `docs/features/FEATURES.md` as you progress
+
+### Folder structure
+
+```
+docs/
+  features/FEATURES.md          # Registry — single source of truth
+  plans/PLAN_FEAT_XXX_P<NN>.md  # Plan files (analysis output)
+  tasks/TASK_FEAT_XXX_NAME.md   # Task breakdowns (implementation)
+```
 
 ### Naming conventions
 
-- Plan titles: `## Plan: [Title] [FEAT-XXX]` or `## Plan: [Title] [BUG-XXX]`
-- Task files: `docs/plans/TASK_FEAT_XXX_[NAME].md` or `docs/plans/TASK_BUG_XXX_[NAME].md`
+- Plan files: `docs/plans/PLAN_FEAT_XXX_P<NN>.md` or `docs/plans/PLAN_BUG_XXX_P<NN>.md`
+- Task files: `docs/tasks/TASK_FEAT_XXX_[NAME].md` or `docs/tasks/TASK_BUG_XXX_[NAME].md`
 - Task file header must include: `> **Tracking**: FEAT-XXX` or `> **Tracking**: BUG-XXX`

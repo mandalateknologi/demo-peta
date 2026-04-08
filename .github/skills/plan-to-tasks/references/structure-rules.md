@@ -33,6 +33,7 @@ Each task follows this structure:
 **Estimated time**: N hours (max 8 — split if larger)
 **Dependencies**: Task X1, Task Y2 | None
 **Status**: ⏳ Pending
+**Assigned To**: [Name] | [To be assigned]
 
 **Description**: What this task accomplishes in 2-3 sentences.
 
@@ -97,6 +98,15 @@ For parallel work, use bullet lists:
 ```
 - **B1** and **C1** — loader and component can develop in parallel
 - **D1** can start once **A1** is done — parallel with B1/C1
+```
+
+## Assigned To
+
+Every task includes an **Assigned To** field. When a task file is first generated, all tasks are set to `[To be assigned]`. Engineers **must** claim tasks by replacing this with their name before beginning work.
+
+```markdown
+**Assigned To**: [To be assigned] ← initial state
+**Assigned To**: Jane Doe ← after claiming
 ```
 
 ## Issue/Bottleneck Table Format

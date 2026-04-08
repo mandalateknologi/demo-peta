@@ -23,6 +23,17 @@ The user provides a **feature name** and optionally a brief description. If the 
 
 Work through each section below sequentially. For each section, ground your analysis in Peta Bencana's actual codebase and architecture — reference the [project philosophy checklist](./references/philosophy-checklist.md) and the project's `copilot-instructions.md` for architecture details.
 
+### 0. Gather Requester Information
+
+**Before starting any analysis**, prompt the user for the following information:
+
+- **Name**: Full name of the person requesting or analyzing this feature
+- **Reason**: Business or technical justification for why this feature is needed
+
+Record these values — they will be included in the plan file generated at the end of the analysis.
+
+If the user does not provide this information, ask explicitly before proceeding to Section 1.
+
 ### 1. Feature Description
 
 Explain what the feature does and the specific problem it solves for hazard monitoring or map users. Be concrete — name the inputs, outputs, and core transformation or interaction.
@@ -143,16 +154,64 @@ Provide a clear **Implement / Defer / Reject** verdict with justification:
 - **Defer**: Feature has merit but depends on prerequisites or needs design iteration. State what must happen first (e.g., data source access, new parser, design approval).
 - **Reject**: Feature diverges from the frontend-only SPA model, requires a backend, or is better served by a different tool. Explain where and why it diverges.
 
+### 9. Plan File Generation (Auto)
+
+If the verdict in Section 8 is **Implement**, perform these steps automatically:
+
+#### 9a. Register in FEATURES.md
+
+1. Read `docs/features/FEATURES.md`
+2. Determine the next available `FEAT-XXX` number (zero-padded, 3 digits)
+3. Add a new row to the Features table with:
+   - **Number**: The new `FEAT-XXX`
+   - **Title**: Short feature title from Section 1
+   - **Description**: One-line description from Section 1
+   - **Priority**: Assessed priority (Critical / High / Medium / Low)
+   - **Status**: `Approved`
+   - **Plan File**: `PLAN_FEAT_XXX_P01.md`
+
+#### 9b. Generate Plan File
+
+1. Read the plan template from [references/\_TEMPLATE_PLAN.md](./references/_TEMPLATE_PLAN.md)
+2. Create `docs/plans/PLAN_FEAT_XXX_P01.md` using the template structure, populated with:
+   - **Tracking**: The assigned `FEAT-XXX` number
+   - **Plan Revision**: P01
+   - **Requested by**: Name from Step 0
+   - **Reason**: Reason from Step 0
+   - **Date**: Current date (YYYY-MM-DD)
+   - **Verdict**: Implement
+   - **Sections 1–8**: The full analysis content produced above
+3. Confirm the file was saved and report the path to the user
+
+#### 9c. If Verdict is Defer or Reject
+
+- **Defer**: Register in FEATURES.md with Status `Proposed` and Plan File `—`. Do not generate a plan file.
+- **Reject**: Do not register. Inform the user with the rejection rationale.
+
 ## Output Format
 
-Present the analysis as a structured Markdown document with numbered sections matching the procedure above. Use tables where specified. Keep each section concise — aim for the minimum words needed to convey a clear, justified assessment.
+Present the analysis as a structured Markdown document with numbered sections matching the procedure above (Sections 0–8). Use tables where specified. Keep each section concise — aim for the minimum words needed to convey a clear, justified assessment.
+
+If the verdict is **Implement**, the plan file (`PLAN_FEAT_XXX_P01.md`) is the primary artifact. The analysis content in the conversation and the plan file must be identical — this ensures **Agent Mode and Plan Mode produce the same output**.
+
+## Agent Mode / Plan Mode Parity
+
+This skill produces identical structured output regardless of whether it is invoked from:
+
+- **Agent Mode** (Copilot chat with tool access) — the skill generates the plan file directly
+- **Plan Mode** (Copilot plan view) — the plan file content is produced as part of the plan
+
+The plan file (`docs/plans/PLAN_FEAT_XXX_P01.md`) is the canonical artifact, not the conversation.
 
 ## Quality Checks
 
 Before finalizing, verify:
 
-- [ ] Every section is addressed (no skipped sections)
+- [ ] Requester information (Name, Reason) was collected in Step 0
+- [ ] Every section (1–8) is addressed (no skipped sections)
 - [ ] Integration proposal follows existing Peta Bencana conventions (layer config + loader + optional state)
 - [ ] Philosophy assessment references actual project principles, not generic software principles
 - [ ] Recommendation includes a clear verdict with justification
 - [ ] No speculative claims — if uncertain about implementation details, say so
+- [ ] If verdict is Implement: FEATURES.md is updated AND plan file is generated
+- [ ] Plan file follows the template structure from `references/_TEMPLATE_PLAN.md`

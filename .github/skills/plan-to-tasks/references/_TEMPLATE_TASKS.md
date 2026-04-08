@@ -1,7 +1,9 @@
 # [Feature Name] — Implementation Tasks
 
+> **Tracking**: FEAT-XXX
 > **Project**: Peta Bencana — [Feature Context]
 > **Feature**: [One-line description of what this feature does]
+> **Plan File**: PLAN_FEAT_XXX_P<NN>.md
 > **Timeline**: [X weeks] (Estimated)
 > **Team**: [N developers]
 > **Status**: Planning Phase
@@ -125,6 +127,7 @@ A1 (types) → A2 (config entry) → B1 (loader) → E1 (map layer) → F1 (test
 **Estimated time**: [N] hours
 **Dependencies**: None
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: [What this task accomplishes in 2-3 sentences.]
 
@@ -184,6 +187,7 @@ interface NewFeatureData {
 **Estimated time**: [N] hours
 **Dependencies**: Task A1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: [What this task accomplishes.]
 
@@ -242,6 +246,7 @@ const layerIds = [..., 'new-layer'];
 **Estimated time**: [N] hours
 **Dependencies**: Task A1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: [What this task accomplishes.]
 
@@ -295,6 +300,7 @@ export function Component() {
 **Estimated time**: [N] hours
 **Dependencies**: Task A1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: [What this task accomplishes.]
 
@@ -346,6 +352,7 @@ newField: defaultValue,
 **Estimated time**: [N] hours
 **Dependencies**: Task B1, Task D1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: [What this task accomplishes.]
 
@@ -389,6 +396,7 @@ newField: defaultValue,
 **Estimated time**: [N] hours
 **Dependencies**: Task B1, Task C1, Task D1, Task E1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: Write tests covering all new code paths added in this feature.
 
@@ -417,6 +425,7 @@ newField: defaultValue,
 **Estimated time**: 2 hours
 **Dependencies**: Task F1
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: Run the full test suite and manual smoke test of all 8 existing layers to confirm no regressions.
 
@@ -443,6 +452,7 @@ newField: defaultValue,
 **Estimated time**: 2 hours
 **Dependencies**: Task F2
 **Status**: ⏳ Pending
+**Assigned To**: [To be assigned]
 
 **Description**: Update `README.md` and any relevant docs to reflect the new feature. Add a CHANGELOG entry.
 
