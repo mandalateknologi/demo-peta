@@ -143,9 +143,26 @@ Provide a clear **Implement / Defer / Reject** verdict with justification:
 - **Defer**: Feature has merit but depends on prerequisites or needs design iteration. State what must happen first (e.g., data source access, new parser, design approval).
 - **Reject**: Feature diverges from the frontend-only SPA model, requires a backend, or is better served by a different tool. Explain where and why it diverges.
 
+### 9. Registration
+
+If the verdict in section 8 is **Implement** or **Defer**, register the feature in the project backlog:
+
+1. Read `docs/plans/FEATURES.md` to find the next available `FEAT-XXX` number.
+2. Output a ready-to-paste table row for the **Features** table:
+
+```markdown
+| FEAT-XXX | [Short Title] | [One-line description] | [Priority] | Proposed | — | [YYYY-MM-DD] |
+```
+
+3. If the user confirms, append the row to `docs/plans/FEATURES.md` under the **Features** table.
+
+For **bug fixes** discovered during analysis, use `BUG-XXX` numbering and add to the **Bugs** table instead.
+
+Do **not** register if the verdict is **Reject**.
+
 ## Output Format
 
-Present the analysis as a structured Markdown document with numbered sections matching the procedure above. Use tables where specified. Keep each section concise — aim for the minimum words needed to convey a clear, justified assessment.
+Present the analysis as a structured Markdown document with numbered sections matching the procedure above (1–9). Use tables where specified. Keep each section concise — aim for the minimum words needed to convey a clear, justified assessment.
 
 ## Quality Checks
 
@@ -156,3 +173,4 @@ Before finalizing, verify:
 - [ ] Philosophy assessment references actual project principles, not generic software principles
 - [ ] Recommendation includes a clear verdict with justification
 - [ ] No speculative claims — if uncertain about implementation details, say so
+- [ ] If verdict is Implement/Defer, section 9 includes a `FEAT-XXX` registration row

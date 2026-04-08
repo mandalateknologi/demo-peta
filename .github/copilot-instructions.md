@@ -51,3 +51,24 @@ npm run preview   # Preview production build
 - Dark/light theme controlled via `.dark` class on root div + Tailwind `dark:` variant
 - New layers must be registered in `config/layers.ts` with a matching loader in `services/dataLoader.ts`
 - Icon imports come from `lucide-react`; prefer existing icon set before adding new ones
+
+## Feature & Bug Tracking
+
+All features and bugs are tracked in `docs/plans/FEATURES.md` with unique numbers:
+
+- **Features**: `FEAT-001`, `FEAT-002`, … (zero-padded, 3 digits)
+- **Bugs**: `BUG-001`, `BUG-002`, … (zero-padded, 3 digits)
+
+### Workflow
+
+1. **Analyze** — Run the `feature-analysis` skill to evaluate feasibility
+2. **Register** — If the verdict is Implement, add the item to `docs/plans/FEATURES.md`
+3. **Plan** — Create a plan; the plan title must include the tracking number: `## Plan: [Title] [FEAT-XXX]` or `[BUG-XXX]`
+4. **Tasks** — Run the `plan-to-tasks` skill; the output file must be named `TASK_FEAT_XXX_[NAME].md` or `TASK_BUG_XXX_[NAME].md`
+5. **Implement** — Work through tasks; update status in `docs/plans/FEATURES.md` as you progress
+
+### Naming conventions
+
+- Plan titles: `## Plan: [Title] [FEAT-XXX]` or `## Plan: [Title] [BUG-XXX]`
+- Task files: `docs/plans/TASK_FEAT_XXX_[NAME].md` or `docs/plans/TASK_BUG_XXX_[NAME].md`
+- Task file header must include: `> **Tracking**: FEAT-XXX` or `> **Tracking**: BUG-XXX`

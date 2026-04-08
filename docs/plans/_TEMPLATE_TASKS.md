@@ -1,5 +1,6 @@
 # [Feature Name] — Implementation Tasks
 
+> **Tracking**: [FEAT-XXX | BUG-XXX]
 > **Project**: Peta Bencana — [Feature Context]
 > **Feature**: [One-line description of what this feature does]
 > **Timeline**: [X weeks] (Estimated)

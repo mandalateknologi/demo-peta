@@ -33,9 +33,16 @@ Accept the user's planning input from one of:
 - A referenced document in the workspace (e.g., a file in `docs/plans/`)
 - A conversation history containing feature analysis or design decisions
 
+**Tracking number**: Identify the `FEAT-XXX` or `BUG-XXX` number for this work. Either:
+
+- The user provides it directly
+- Look it up in `docs/plans/FEATURES.md` by matching the feature/bug title
+- If no tracking number exists yet, ask the user to register the item in `docs/plans/FEATURES.md` first (or assign the next available number and register it)
+
 If the input is ambiguous or incomplete, ask the user to clarify:
 
 - What is the feature name / scope?
+- What is the tracking number (`FEAT-XXX` or `BUG-XXX`)?
 - Are there known files to modify?
 - Any hard constraints (timeline, compatibility, dependencies on other work)?
 
@@ -52,7 +59,7 @@ Before writing tasks, explore the codebase to determine:
 
 Apply the structure rules from [references/structure-rules.md](./references/structure-rules.md).
 
-**Output file**: `docs/plans/TASK_[NAME].md` where `[NAME]` is uppercase, matches the feature (e.g., `TASK_AUGMENTATION.md`, `TASK_TRAINING_V2.md`).
+**Output file**: `docs/plans/TASK_FEAT_XXX_[NAME].md` or `docs/plans/TASK_BUG_XXX_[NAME].md` where `XXX` is the tracking number and `[NAME]` is uppercase, matching the feature (e.g., `TASK_FEAT_001_CUSTOM_DATA.md`, `TASK_BUG_003_ICON_CHECK.md`).
 
 ### Step 6: Write All Required Sections
 
@@ -63,6 +70,7 @@ The output file MUST contain every section below. Do not skip any — mark as N/
 ```markdown
 # [Feature Name] — Implementation Tasks
 
+> **Tracking**: FEAT-XXX (or BUG-XXX)
 > **Project**: Peta Bencana — [Feature Context]
 > **Feature**: [One-line description]
 > **Timeline**: [X weeks] (Estimated)
@@ -127,9 +135,10 @@ Before saving, verify:
 - [ ] "After Implementation" sections say `[To be filled after completion]`
 - [ ] Issue/Bottleneck table has at least one entry (or explicit N/A)
 
-### Step 8: Save
+### Step 8: Save & Update Registry
 
-Write the file to `docs/plans/TASK_[NAME].md`.
+1. Write the file to `docs/plans/TASK_FEAT_XXX_[NAME].md` (or `TASK_BUG_XXX_[NAME].md`).
+2. Update `docs/plans/FEATURES.md`: set the matching entry's **Status** to `In Progress` and **Plan File** to the task filename.
 
 ## Anti-patterns
 
