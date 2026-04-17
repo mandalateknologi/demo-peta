@@ -59,6 +59,7 @@
 | FEAT-012 | Consolidate icon/color mappings to config | Move duplicated `LAYER_ICONS` and `LAYER_COLORS` from components into `config/layers.ts`                                                                                                     | Low      | Proposed    | —                    |
 | FEAT-013 | Management Dashboard                      | Split-view dashboard with summary cards, interactive charts (recharts), and province statistics for management overview                                                                      | High     | In Progress | PLAN_FEAT_013_P01.md |
 | FEAT-014 | UI Contrast Enhancement                   | Enhance visual contrast for sidebar, running text ticker, selected province highlight, and map markers/clusters using combined approach (darker bg, accent borders, higher opacity, shadows) | Medium   | Approved    | —                    |
+| FEAT-015 | BNPB DIBI Dashboard                       | Dashboard statistik dan tabel list data bencana dari BNPB DIBI dengan status tindak lanjut (is_bencana), stat cards, dan tabbed table view                                                   | High     | In Progress | PLAN_FEAT_015_P01.md |
 
 ---
 

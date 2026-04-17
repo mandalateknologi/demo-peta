@@ -82,3 +82,30 @@ export interface DashboardStats {
   provinceCounts: ProvinceCount[];
   timeSeries: TimeSeriesBucket[];
 }
+
+export interface BNPBRecord {
+  id: number;
+  jenis_bencana: string;
+  kategori_bencana: string;
+  provinsi: string;
+  kabupaten: string;
+  jumlah_kejadian: number;
+  meninggal: number;
+  hilang: number;
+  luka_sakit: number;
+  menderita: number;
+  mengungsi: number;
+  rumah_rusak_berat: number;
+  rumah_rusak_sedang: number;
+  rumah_rusak_ringan: number;
+  rumah_terendam: number;
+  estimasi_kerugian_rumah: number;
+  is_bencana: boolean;
+  dt: string;
+}
+
+export interface BNPBStats {
+  total: number;
+  ditindakLanjuti: number;
+  belumDitindakLanjuti: number;
+}
